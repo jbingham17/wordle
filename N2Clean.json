@@ -1,0 +1,9347 @@
+{
+  "YBYBB": {
+    "mincy": {
+      "BGBYB": {
+        "cigar": {
+          "GGGGG": {
+            "cigar": 1
+          },
+          "YGBGG": {
+            "vicar": 1
+          }
+        }
+      },
+      "YBBBB": {
+        "karma": {
+          "GGGGG": {
+            "karma": 1
+          },
+          "BYYYG": {
+            "umbra": 1
+          }
+        }
+      },
+      "GBBBG": {
+        "marry": 1
+      },
+      "BBBBG": {
+        "parry": {
+          "GGGGG": {
+            "parry": 1
+          },
+          "YYGYG": {
+            "spray": 1
+          },
+          "BGGGG": {
+            "harry": 1
+          },
+          "BGGYG": {
+            "hardy": 1
+          },
+          "BYGYG": {
+            "array": 1
+          },
+          "YGGYG": {
+            "harpy": 1
+          }
+        }
+      },
+      "BYBBB": {
+        "briar": {
+          "GGGGG": {
+            "briar": 1
+          },
+          "BGGGG": {
+            "friar": 1
+          }
+        }
+      },
+      "BGBBB": {
+        "viral": 1
+      },
+      "BBBBB": {
+        "abask": {
+          "YBYYB": {
+            "sugar": 1
+          },
+          "YBYBB": {
+            "larva": 1
+          },
+          "GBYBB": {
+            "augur": 1
+          },
+          "YBYGB": {
+            "harsh": 1
+          },
+          "YBYBY": {
+            "parka": 1
+          }
+        }
+      },
+      "BYBBG": {
+        "aahed": {
+          "YGYBB": {
+            "hairy": 1
+          },
+          "YGBBB": {
+            "fairy": 1
+          },
+          "YGBBY": {
+            "dairy": 1
+          }
+        }
+      },
+      "BBBYB": {
+        "scrap": 1
+      },
+      "BBYBG": {
+        "angry": 1
+      },
+      "GBBBB": {
+        "marsh": {
+          "GGGGG": {
+            "marsh": 1
+          },
+          "GYGBB": {
+            "mural": 1
+          }
+        }
+      },
+      "BBBYG": {
+        "carry": 1
+      },
+      "BBGBB": {
+        "lunar": 1
+      },
+      "GBBGB": {
+        "march": 1
+      },
+      "BBYBB": {
+        "urban": 1
+      },
+      "BYBYB": {
+        "acrid": 1
+      },
+      "BYYBB": {
+        "nadir": 1
+      },
+      "BYYYB": {
+        "cairn": 1
+      },
+      "BGBGB": {
+        "circa": 1
+      },
+      "YBBYB": {
+        "scram": 1
+      }
+    }
+  },
+  "GBBYY": {
+    "ficus": {
+      "BBBGB": {
+        "rebut": 1
+      },
+      "BBYBB": {
+        "retch": 1
+      },
+      "BBGGB": {
+        "recut": 1
+      },
+      "BGBBB": {
+        "rivet": 1
+      },
+      "BBBBY": {
+        "reset": 1
+      },
+      "BYBBB": {
+        "remit": 1
+      },
+      "BBBBB": {
+        "retry": 1
+      },
+      "YYBBB": {
+        "refit": 1
+      }
+    }
+  },
+  "BBBBB": {
+    "slimy": {
+      "GBYBG": {
+        "sissy": 1
+      },
+      "BBBYB": {
+        "humph": {
+          "GGGGG": {
+            "humph": 1
+          },
+          "YGYBG": {
+            "munch": 1
+          }
+        }
+      },
+      "YGBBB": {
+        "abaft": {
+          "BYBBB": {
+            "blush": 1
+          },
+          "BBBBB": {
+            "plush": 1
+          },
+          "BBBYB": {
+            "flush": 1
+          }
+        }
+      },
+      "BGBBB": {
+        "flunk": {
+          "BGGBG": {
+            "cluck": {
+              "GGGGG": {
+                "cluck": 1
+              },
+              "YGGGG": {
+                "pluck": 1
+              }
+            }
+          },
+          "GGGBB": {
+            "fluff": 1
+          },
+          "YGGBB": {
+            "bluff": 1
+          },
+          "BGGGB": {
+            "clung": 1
+          },
+          "BGGGG": {
+            "plunk": 1
+          },
+          "GGGGG": {
+            "flunk": 1
+          },
+          "GGGGB": {
+            "flung": 1
+          }
+        }
+      },
+      "BBYYB": {
+        "minim": {
+          "GGBGY": {
+            "mimic": 1
+          },
+          "YYBGY": {
+            "humid": 1
+          },
+          "YYYGY": {
+            "cumin": 1
+          },
+          "GGGGG": {
+            "minim": 1
+          }
+        }
+      },
+      "BGGBB": {
+        "flick": {
+          "GGGGG": {
+            "flick": 1
+          },
+          "GGGBB": {
+            "fling": 1
+          },
+          "BGGGG": {
+            "click": 1
+          },
+          "BGGYB": {
+            "cling": 1
+          },
+          "BGGBG": {
+            "blink": 1
+          },
+          "BGGYG": {
+            "clink": 1
+          },
+          "YGGYB": {
+            "cliff": 1
+          },
+          "BGGBB": {
+            "blind": 1
+          }
+        }
+      },
+      "BYGBY": {
+        "lying": 1
+      },
+      "BBYBB": {
+        "cupid": {
+          "GBBGB": {
+            "civic": 1
+          },
+          "BBBGG": {
+            "vivid": 1
+          },
+          "GBBYB": {
+            "cinch": 1
+          },
+          "BGBYB": {
+            "fungi": 1
+          },
+          "YBBYB": {
+            "winch": {
+              "GGGGG": {
+                "winch": 1
+              },
+              "BGGGG": {
+                "finch": 1
+              }
+            }
+          },
+          "BYYGB": {
+            "unzip": 1
+          },
+          "GGBGB": {
+            "cubic": 1
+          },
+          "YGYGB": {
+            "pubic": 1
+          },
+          "YBYYB": {
+            "pinch": 1
+          },
+          "BYBGG": {
+            "undid": 1
+          }
+        }
+      },
+      "GBGBG": {
+        "ancho": {
+          "BBYBB": {
+            "spicy": 1
+          },
+          "BYBBB": {
+            "spiny": 1
+          },
+          "BYBYB": {
+            "shiny": 1
+          },
+          "BBBBB": {
+            "spiky": 1
+          }
+        }
+      },
+      "BYGBB": {
+        "bodhi": {
+          "BBYBY": {
+            "guild": 1
+          },
+          "BBBYY": {
+            "chill": 1
+          },
+          "BBYYY": {
+            "child": 1
+          },
+          "BBBBY": {
+            "quill": 1
+          },
+          "GBYBY": {
+            "build": 1
+          },
+          "BBBYG": {
+            "chili": 1
+          }
+        }
+      },
+      "BYBBG": {
+        "gibli": {
+          "BBBYB": {
+            "pulpy": {
+              "GGGGG": {
+                "pulpy": 1
+              },
+              "BGYBG": {
+                "lucky": 1
+              }
+            }
+          },
+          "GBBGB": {
+            "gully": 1
+          },
+          "BBYGB": {
+            "bully": 1
+          },
+          "BBYYB": {
+            "bulky": 1
+          },
+          "BBBGB": {
+            "fully": {
+              "GGGGG": {
+                "fully": 1
+              },
+              "BGGGG": {
+                "dully": 1
+              }
+            }
+          }
+        }
+      },
+      "BBBBG": {
+        "phang": {
+          "BYBBB": {
+            "duchy": 1
+          },
+          "BBBBY": {
+            "buggy": 1
+          },
+          "BYBYB": {
+            "hunky": 1
+          },
+          "BBBGB": {
+            "funny": {
+              "GGGGG": {
+                "funny": 1
+              },
+              "BGGGG": {
+                "bunny": 1
+              }
+            }
+          },
+          "BBBBB": {
+            "buddy": {
+              "GGGGG": {
+                "buddy": 1
+              },
+              "BGBBG": {
+                "fuzzy": 1
+              }
+            }
+          },
+          "GBBBY": {
+            "pudgy": 1
+          },
+          "GBBBB": {
+            "puppy": {
+              "GGGGG": {
+                "puppy": 1
+              },
+              "GGYYG": {
+                "puffy": 1
+              }
+            }
+          },
+          "BBBYB": {
+            "funky": 1
+          },
+          "YBBBY": {
+            "guppy": 1
+          }
+        }
+      },
+      "YBGBB": {
+        "using": {
+          "GGGGG": {
+            "using": 1
+          },
+          "BYGBB": {
+            "whisk": 1
+          }
+        }
+      },
+      "BBYBG": {
+        "ponds": {
+          "GBBBB": {
+            "picky": {
+              "GGGGG": {
+                "picky": 1
+              },
+              "GGBBG": {
+                "piggy": 1
+              }
+            }
+          },
+          "YBBBB": {
+            "hippy": 1
+          },
+          "BBBBB": {
+            "jiffy": {
+              "GGGGG": {
+                "jiffy": 1
+              },
+              "BGYYG": {
+                "fizzy": 1
+              }
+            }
+          },
+          "BBGGB": {
+            "windy": 1
+          },
+          "BBBYB": {
+            "dizzy": 1
+          },
+          "BBGBB": {
+            "ninny": {
+              "GGGGG": {
+                "ninny": 1
+              },
+              "YGGYG": {
+                "kinky": 1
+              }
+            }
+          },
+          "BBGYB": {
+            "dingy": 1
+          },
+          "GBGBB": {
+            "pinky": 1
+          },
+          "BBBGB": {
+            "giddy": {
+              "GGGGG": {
+                "giddy": 1
+              },
+              "BGGGG": {
+                "biddy": 1
+              }
+            }
+          }
+        }
+      },
+      "BBGBG": {
+        "whiny": {
+          "BBGYG": {
+            "unify": 1
+          },
+          "BBGBG": {
+            "juicy": 1
+          },
+          "GGGGG": {
+            "whiny": 1
+          }
+        }
+      },
+      "GGBGB": {
+        "slump": 1
+      },
+      "GYGBB": {
+        "apeak": {
+          "BBBBY": {
+            "skill": 1
+          },
+          "BBBBB": {
+            "swill": 1
+          },
+          "BGBBB": {
+            "spill": 1
+          }
+        }
+      },
+      "BBYBY": {
+        "cynic": 1
+      },
+      "BYBBY": {
+        "lynch": 1
+      },
+      "BBBYY": {
+        "nymph": 1
+      },
+      "BBBBB": {
+        "hanap": {
+          "YBYBB": {
+            "chunk": 1
+          },
+          "YBBBB": {
+            "chuck": 1
+          },
+          "GBGBB": {
+            "hunch": 1
+          },
+          "YBGBB": {
+            "bunch": 1
+          },
+          "YBGBY": {
+            "punch": 1
+          }
+        }
+      },
+      "GGBBB": {
+        "slunk": {
+          "GGGGB": {
+            "slung": 1
+          },
+          "GGGBB": {
+            "slush": 1
+          },
+          "GGGGG": {
+            "slunk": 1
+          }
+        }
+      },
+      "BBBGG": {
+        "agued": {
+          "BBYBB": {
+            "mummy": 1
+          },
+          "BBYBY": {
+            "dummy": 1
+          },
+          "BYBBB": {
+            "pygmy": 1
+          },
+          "BYYBB": {
+            "gummy": 1
+          }
+        }
+      },
+      "BGBBY": {
+        "glyph": 1
+      },
+      "BYBBB": {
+        "gulch": {
+          "GGGGG": {
+            "gulch": 1
+          },
+          "BGYGG": {
+            "lunch": 1
+          }
+        }
+      },
+      "GBGGB": {
+        "skimp": 1
+      },
+      "BYBYB": {
+        "mulch": 1
+      },
+      "BBGBB": {
+        "which": {
+          "BBGGB": {
+            "quick": 1
+          },
+          "BBGYB": {
+            "icing": 1
+          },
+          "GGGGG": {
+            "which": 1
+          },
+          "BGGGY": {
+            "chick": 1
+          },
+          "GGGBY": {
+            "whiff": 1
+          }
+        }
+      },
+      "GGGBB": {
+        "slink": {
+          "GGGBG": {
+            "slick": 1
+          },
+          "GGGGB": {
+            "sling": 1
+          },
+          "GGGGG": {
+            "slink": 1
+          }
+        }
+      },
+      "BYYGG": {
+        "filmy": 1
+      },
+      "BBBYG": {
+        "muddy": {
+          "GGGGG": {
+            "muddy": 1
+          },
+          "YGYYG": {
+            "dumpy": 1
+          },
+          "GGBBG": {
+            "mucky": 1
+          },
+          "YGBBG": {
+            "jumpy": 1
+          }
+        }
+      },
+      "BYBYY": {
+        "lymph": 1
+      },
+      "GBBBG": {
+        "sunny": 1
+      },
+      "YBBBG": {
+        "hopak": {
+          "YBYBB": {
+            "pushy": 1
+          },
+          "GBBBY": {
+            "husky": 1
+          },
+          "YBBBB": {
+            "bushy": 1
+          },
+          "GBBBB": {
+            "hussy": 1
+          },
+          "BBBBY": {
+            "dusky": 1
+          },
+          "BBGBB": {
+            "gypsy": 1
+          },
+          "BBBBB": {
+            "fussy": 1
+          }
+        }
+      },
+      "BBBGB": {
+        "chump": 1
+      },
+      "BYYBB": {
+        "vigil": {
+          "GGGGG": {
+            "vigil": 1
+          },
+          "YGBGG": {
+            "civil": 1
+          },
+          "BYBGG": {
+            "pupil": 1
+          },
+          "BGBGY": {
+            "lipid": 1
+          },
+          "BYBGY": {
+            "lucid": 1
+          },
+          "YGBGY": {
+            "livid": 1
+          }
+        }
+      },
+      "GBBBB": {
+        "spunk": {
+          "GBGYG": {
+            "snuck": 1
+          },
+          "GBGYB": {
+            "snuff": 1
+          },
+          "GBGBG": {
+            "shuck": 1
+          },
+          "GBGGG": {
+            "skunk": 1
+          },
+          "GBGGB": {
+            "swung": 1
+          },
+          "GGGGG": {
+            "spunk": 1
+          },
+          "GBGBB": {
+            "shush": 1
+          }
+        }
+      },
+      "GBYBB": {
+        "sushi": {
+          "GGGGG": {
+            "sushi": 1
+          },
+          "GYYBY": {
+            "squib": 1
+          }
+        }
+      },
+      "BBGBY": {
+        "dying": {
+          "GGGGG": {
+            "dying": 1
+          },
+          "BGGGG": {
+            "vying": 1
+          }
+        }
+      },
+      "YBBYG": {
+        "musky": {
+          "GGGGG": {
+            "musky": 1
+          },
+          "GGGBG": {
+            "mushy": 1
+          }
+        }
+      },
+      "BGYBB": {
+        "fluid": 1
+      },
+      "GYYBG": {
+        "silky": {
+          "GGGGG": {
+            "silky": 1
+          },
+          "GGGBG": {
+            "silly": 1
+          }
+        }
+      },
+      "YGGBB": {
+        "bliss": 1
+      },
+      "BYYBY": {
+        "idyll": {
+          "GGGGG": {
+            "idyll": 1
+          },
+          "YBYYG": {
+            "vinyl": 1
+          }
+        }
+      },
+      "BYYYG": {
+        "milky": {
+          "YYYBG": {
+            "imply": 1
+          },
+          "YGYBG": {
+            "dimly": 1
+          },
+          "GGGGG": {
+            "milky": 1
+          }
+        }
+      },
+      "GGGGG": {
+        "slimy": 1
+      },
+      "BYYBG": {
+        "wifed": {
+          "BGBBY": {
+            "dilly": 1
+          },
+          "BGYBB": {
+            "filly": 1
+          },
+          "BGBBB": {
+            "billy": {
+              "GGGGG": {
+                "billy": 1
+              },
+              "BGGGG": {
+                "hilly": 1
+              }
+            }
+          },
+          "GGBBB": {
+            "willy": 1
+          }
+        }
+      },
+      "YBYYG": {
+        "missy": 1
+      },
+      "GYBBB": {
+        "skulk": {
+          "GGGGG": {
+            "skulk": 1
+          },
+          "GGGGY": {
+            "skull": 1
+          }
+        }
+      },
+      "GBGBB": {
+        "swing": {
+          "GBGGG": {
+            "suing": 1
+          },
+          "GGGBB": {
+            "swish": 1
+          },
+          "GBGBB": {
+            "skiff": 1
+          },
+          "GGGGG": {
+            "swing": 1
+          },
+          "GBGYB": {
+            "sniff": 1
+          }
+        }
+      },
+      "YBYBG": {
+        "wispy": {
+          "BGGBG": {
+            "fishy": 1
+          },
+          "BGYYG": {
+            "gipsy": 1
+          },
+          "GGGGG": {
+            "wispy": 1
+          }
+        }
+      },
+      "GYBBG": {
+        "sully": {
+          "GBYGG": {
+            "shyly": 1
+          },
+          "GGGYG": {
+            "sulky": 1
+          },
+          "GGGGG": {
+            "sully": 1
+          }
+        }
+      },
+      "BGGGB": {
+        "blimp": {
+          "GGGGG": {
+            "blimp": 1
+          },
+          "YGGGB": {
+            "climb": 1
+          }
+        }
+      },
+      "YBBYB": {
+        "humus": {
+          "GGGGG": {
+            "humus": 1
+          },
+          "BGYGG": {
+            "mucus": 1
+          }
+        }
+      },
+      "BBYYG": {
+        "wimpy": 1
+      },
+      "BYGBG": {
+        "icily": 1
+      },
+      "BYBYG": {
+        "lumpy": 1
+      },
+      "YYBBB": {
+        "lupus": 1
+      },
+      "YBYYB": {
+        "minus": {
+          "GGGGG": {
+            "minus": 1
+          },
+          "GYBYY": {
+            "music": 1
+          }
+        }
+      },
+      "BGBGB": {
+        "plump": {
+          "GGGGY": {
+            "plumb": 1
+          },
+          "GGGGG": {
+            "plump": 1
+          },
+          "YGGGG": {
+            "clump": 1
+          }
+        }
+      },
+      "GGBBG": {
+        "slyly": 1
+      },
+      "YBYBB": {
+        "ficus": 1
+      }
+    }
+  },
+  "BBGBG": {
+    "slump": {
+      "BBBBB": {
+        "ahind": {
+          "GBBBB": {
+            "awake": 1
+          },
+          "YBBBY": {
+            "evade": 1
+          },
+          "YBYGB": {
+            "inane": 1
+          },
+          "YBBBB": {
+            "weave": 1
+          },
+          "GBBBY": {
+            "adage": 1
+          },
+          "YBBYB": {
+            "knave": 1
+          },
+          "YGBBB": {
+            "chafe": 1
+          },
+          "YYBBB": {
+            "heave": 1
+          }
+        }
+      },
+      "YBBBB": {
+        "chase": {
+          "BBGGG": {
+            "abase": 1
+          },
+          "GGGGG": {
+            "chase": 1
+          },
+          "GBGGG": {
+            "cease": 1
+          }
+        }
+      },
+      "GBBBB": {
+        "danks": {
+          "BYBGY": {
+            "shake": 1
+          },
+          "YYBBY": {
+            "shade": 1
+          },
+          "BYYGY": {
+            "snake": 1
+          },
+          "BYBBY": {
+            "shave": 1
+          }
+        }
+      },
+      "GGBBB": {
+        "slave": 1
+      },
+      "GBBGB": {
+        "shame": 1
+      },
+      "YBBBY": {
+        "phase": 1
+      },
+      "BBBBY": {
+        "agape": {
+          "GGGGG": {
+            "agape": 1
+          },
+          "YBGYG": {
+            "peace": 1
+          }
+        }
+      },
+      "BYBBB": {
+        "leave": {
+          "GGGGG": {
+            "leave": 1
+          },
+          "YYGBG": {
+            "whale": 1
+          }
+        }
+      },
+      "GBBBY": {
+        "spade": {
+          "GGGGG": {
+            "spade": 1
+          },
+          "GYGBG": {
+            "shape": 1
+          },
+          "GGGBG": {
+            "space": 1
+          }
+        }
+      },
+      "BGBBY": {
+        "place": {
+          "GGGGG": {
+            "place": 1
+          },
+          "GGGBG": {
+            "plane": 1
+          }
+        }
+      },
+      "BBBYB": {
+        "amaze": {
+          "GGGGG": {
+            "amaze": 1
+          },
+          "YGGBG": {
+            "image": 1
+          }
+        }
+      },
+      "YBYBB": {
+        "usage": 1
+      },
+      "BGBBB": {
+        "badge": {
+          "GYBBG": {
+            "blaze": 1
+          },
+          "BYYYG": {
+            "glade": 1
+          },
+          "BYBBG": {
+            "flake": 1
+          },
+          "GYYBG": {
+            "blade": 1
+          },
+          "BYBYG": {
+            "glaze": 1
+          }
+        }
+      },
+      "GBYBB": {
+        "suave": 1
+      },
+      "BBYBB": {
+        "quake": 1
+      },
+      "GYBBB": {
+        "shale": {
+          "GGGGG": {
+            "shale": 1
+          },
+          "GBGGG": {
+            "scale": 1
+          }
+        }
+      },
+      "YYBBB": {
+        "lease": 1
+      },
+      "BGBGB": {
+        "flame": {
+          "GGGGG": {
+            "flame": 1
+          },
+          "BGGGG": {
+            "blame": 1
+          }
+        }
+      }
+    }
+  },
+  "BGYBB": {
+    "liman": {
+      "YBBGB": {
+        "focal": {
+          "GGGGG": {
+            "focal": 1
+          },
+          "BGGGG": {
+            "vocal": 1
+          }
+        }
+      },
+      "BBBYB": {
+        "vodka": {
+          "GGGGG": {
+            "vodka": 1
+          },
+          "BGBBG": {
+            "cocoa": 1
+          }
+        }
+      },
+      "BBGYB": {
+        "comma": 1
+      },
+      "BBYYB": {
+        "mocha": {
+          "GGGGG": {
+            "mocha": 1
+          },
+          "YGBBG": {
+            "dogma": 1
+          }
+        }
+      },
+      "BBBGY": {
+        "gonad": 1
+      },
+      "GBBGB": {
+        "local": {
+          "GGGGG": {
+            "local": 1
+          },
+          "GGBGG": {
+            "loyal": 1
+          }
+        }
+      },
+      "YBYGB": {
+        "modal": 1
+      },
+      "BBGGY": {
+        "nomad": 1
+      },
+      "YYBYB": {
+        "voila": 1
+      },
+      "YBBGY": {
+        "zonal": 1
+      },
+      "BBGGG": {
+        "woman": 1
+      },
+      "YBBYB": {
+        "polka": 1
+      }
+    }
+  },
+  "BBYBB": {
+    "lysin": {
+      "YBBBY": {
+        "canal": {
+          "BGYGG": {
+            "naval": 1
+          },
+          "BGGGG": {
+            "banal": 1
+          },
+          "BYGYG": {
+            "annul": 1
+          },
+          "GGGGG": {
+            "canal": 1
+          }
+        }
+      },
+      "BBBGB": {
+        "calpa": {
+          "BGBBY": {
+            "maxim": 1
+          },
+          "BYBYY": {
+            "aphid": 1
+          },
+          "YGBBY": {
+            "magic": 1
+          },
+          "BGBBG": {
+            "mafia": 1
+          },
+          "BGBYY": {
+            "vapid": 1
+          },
+          "BYBBY": {
+            "affix": 1
+          }
+        }
+      },
+      "BBBBB": {
+        "dogma": {
+          "BBYGG": {
+            "gamma": 1
+          },
+          "YBBYY": {
+            "madam": 1
+          },
+          "BBBYY": {
+            "macaw": 1
+          },
+          "BBBBG": {
+            "kappa": 1
+          },
+          "BBBGG": {
+            "mamma": 1
+          },
+          "BBGGG": {
+            "magma": 1
+          }
+        }
+      },
+      "BBGGB": {
+        "basic": {
+          "GGGGG": {
+            "basic": 1
+          },
+          "GGGGB": {
+            "basis": 1
+          }
+        }
+      },
+      "YBYBB": {
+        "usual": {
+          "BYBGY": {
+            "salad": 1
+          },
+          "GGGGG": {
+            "usual": 1
+          },
+          "BYBYY": {
+            "salsa": 1
+          }
+        }
+      },
+      "BYYBB": {
+        "ampul": {
+          "GBBBB": {
+            "abyss": 1
+          },
+          "YBBBB": {
+            "savvy": 1
+          },
+          "YBBYB": {
+            "saucy": 1
+          },
+          "YBGBB": {
+            "sappy": 1
+          }
+        }
+      },
+      "YYBBB": {
+        "madly": {
+          "BGGGG": {
+            "badly": 1
+          },
+          "YYBGG": {
+            "amply": 1
+          },
+          "BGBGG": {
+            "gayly": 1
+          },
+          "BGYGG": {
+            "dally": 1
+          },
+          "BYBGG": {
+            "apply": 1
+          },
+          "YGBYG": {
+            "balmy": 1
+          },
+          "BYBYG": {
+            "allay": 1
+          },
+          "GGGGG": {
+            "madly": 1
+          }
+        }
+      },
+      "BYBBB": {
+        "cadgy": {
+          "BGYYG": {
+            "gaudy": 1
+          },
+          "BGBYG": {
+            "gawky": 1
+          },
+          "YGBBG": {
+            "wacky": 1
+          },
+          "BGGBG": {
+            "daddy": {
+              "GGGGG": {
+                "daddy": 1
+              },
+              "YGGGG": {
+                "paddy": 1
+              }
+            }
+          },
+          "GGGBG": {
+            "caddy": 1
+          },
+          "BGBGG": {
+            "baggy": 1
+          },
+          "BGBBG": {
+            "abamp": {
+              "YBYGB": {
+                "mammy": 1
+              },
+              "YBYBB": {
+                "jazzy": 1
+              },
+              "YBYBY": {
+                "happy": 1
+              }
+            }
+          },
+          "BGYBG": {
+            "bawdy": 1
+          },
+          "BGBBY": {
+            "kayak": 1
+          },
+          "GGBBG": {
+            "cabby": 1
+          }
+        }
+      },
+      "BBBGY": {
+        "panic": {
+          "GGGGG": {
+            "panic": 1
+          },
+          "BGGGB": {
+            "mania": 1
+          },
+          "BGGGG": {
+            "manic": 1
+          }
+        }
+      },
+      "YBBBB": {
+        "papal": {
+          "BGBYY": {
+            "caulk": 1
+          },
+          "GYGGG": {
+            "pupal": 1
+          },
+          "BYBYY": {
+            "album": 1
+          },
+          "BYBYG": {
+            "awful": 1
+          },
+          "YYGYY": {
+            "alpha": 1
+          },
+          "GGGGG": {
+            "papal": 1
+          },
+          "BGBGG": {
+            "cabal": 1
+          }
+        }
+      },
+      "BBYBB": {
+        "sumac": {
+          "GYBGB": {
+            "squad": 1
+          },
+          "GYBYY": {
+            "scuba": 1
+          },
+          "GGGGG": {
+            "sumac": 1
+          }
+        }
+      },
+      "BYBBY": {
+        "decaf": {
+          "BBYYB": {
+            "canny": 1
+          },
+          "GBBYB": {
+            "dandy": 1
+          },
+          "BBBYY": {
+            "fanny": 1
+          },
+          "BBBYB": {
+            "nanny": {
+              "GGGGG": {
+                "nanny": 1
+              },
+              "YGGYG": {
+                "mangy": 1
+              }
+            }
+          },
+          "YBBYB": {
+            "handy": 1
+          },
+          "YBYYB": {
+            "candy": 1
+          },
+          "BBYYY": {
+            "fancy": 1
+          }
+        }
+      },
+      "YYBYB": {
+        "gaily": {
+          "GGGGG": {
+            "gaily": 1
+          },
+          "BGGGG": {
+            "daily": 1
+          }
+        }
+      },
+      "GBBYB": {
+        "lilac": 1
+      },
+      "YBBGB": {
+        "valid": {
+          "GGGGG": {
+            "valid": 1
+          },
+          "YGYGB": {
+            "cavil": 1
+          }
+        }
+      },
+      "BBBYY": {
+        "aping": {
+          "GBGGG": {
+            "aging": 1
+          },
+          "YBYYB": {
+            "ninja": 1
+          },
+          "GGGGG": {
+            "aping": 1
+          },
+          "YBGGB": {
+            "china": 1
+          }
+        }
+      },
+      "BBBBG": {
+        "pagan": {
+          "GGGGG": {
+            "pagan": 1
+          },
+          "BYBGG": {
+            "human": 1
+          }
+        }
+      },
+      "BBBBY": {
+        "manga": {
+          "GGGGG": {
+            "manga": 1
+          },
+          "BGYBG": {
+            "fauna": 1
+          }
+        }
+      },
+      "YYYBB": {
+        "sally": {
+          "GGYGG": {
+            "sadly": 1
+          },
+          "YGGYG": {
+            "palsy": 1
+          },
+          "GGGGG": {
+            "sally": 1
+          }
+        }
+      },
+      "YBBYY": {
+        "final": 1
+      },
+      "YYBYY": {
+        "inlay": 1
+      },
+      "GYBBY": {
+        "lanky": 1
+      },
+      "BBYYB": {
+        "sigma": {
+          "GGGGG": {
+            "sigma": 1
+          },
+          "YYBYY": {
+            "amiss": 1
+          }
+        }
+      },
+      "BBGGG": {
+        "basin": 1
+      },
+      "BYGBB": {
+        "sassy": {
+          "YYGYG": {
+            "assay": 1
+          },
+          "GGGGG": {
+            "sassy": 1
+          },
+          "YGGGG": {
+            "gassy": 1
+          }
+        }
+      },
+      "GBBBB": {
+        "laugh": 1
+      },
+      "BYYYB": {
+        "daisy": 1
+      },
+      "BBBGG": {
+        "cabin": {
+          "GGGGG": {
+            "cabin": 1
+          },
+          "BYBGG": {
+            "admin": 1
+          }
+        }
+      },
+      "YBBYB": {
+        "iliac": {
+          "YYYYB": {
+            "villa": 1
+          },
+          "GGGGG": {
+            "iliac": 1
+          },
+          "YYGGB": {
+            "axial": 1
+          },
+          "YGGYB": {
+            "alibi": 1
+          }
+        }
+      },
+      "BBYBY": {
+        "sauna": 1
+      },
+      "YBBYG": {
+        "align": 1
+      },
+      "YGBBB": {
+        "bylaw": 1
+      },
+      "BBBYB": {
+        "pizza": 1
+      },
+      "BYYBY": {
+        "pansy": {
+          "GGGGG": {
+            "pansy": 1
+          },
+          "BGGYG": {
+            "sandy": 1
+          }
+        }
+      },
+      "YBGGB": {
+        "basil": 1
+      },
+      "BBBYG": {
+        "avian": 1
+      },
+      "YBGBY": {
+        "nasal": 1
+      },
+      "YBBGY": {
+        "anvil": 1
+      },
+      "YBGBB": {
+        "basal": 1
+      },
+      "YYBBY": {
+        "manly": 1
+      }
+    }
+  },
+  "YBBBG": {
+    "piums": {
+      "BBBBY": {
+        "verse": {
+          "YGGYG": {
+            "serve": 1
+          },
+          "GGGGG": {
+            "verse": 1
+          },
+          "BYGYG": {
+            "scree": 1
+          }
+        }
+      },
+      "GYBBB": {
+        "ached": {
+          "BBBYY": {
+            "pride": 1
+          },
+          "BBBYB": {
+            "prize": 1
+          },
+          "BYBYB": {
+            "price": 1
+          }
+        }
+      },
+      "BYBBB": {
+        "aband": {
+          "BYBBB": {
+            "bribe": 1
+          },
+          "BYBGB": {
+            "brine": 1
+          },
+          "BBBBB": {
+            "eerie": 1
+          },
+          "BYBBY": {
+            "bride": 1
+          },
+          "BBBBY": {
+            "drive": 1
+          }
+        }
+      },
+      "BYBGB": {
+        "grime": {
+          "GGGGG": {
+            "grime": 1
+          },
+          "BGGGG": {
+            "crime": 1
+          }
+        }
+      },
+      "YYBBB": {
+        "gripe": 1
+      },
+      "BYBBY": {
+        "shire": 1
+      },
+      "GBYBB": {
+        "purge": {
+          "GGGGG": {
+            "purge": 1
+          },
+          "GGGBG": {
+            "puree": 1
+          }
+        }
+      },
+      "BGBBB": {
+        "fibre": {
+          "GGGGG": {
+            "fibre": 1
+          },
+          "BGBYG": {
+            "dirge": 1
+          }
+        }
+      },
+      "BBBBB": {
+        "verve": {
+          "BGYBG": {
+            "genre": 1
+          },
+          "YGGGG": {
+            "nerve": 1
+          },
+          "GGGGG": {
+            "verve": 1
+          },
+          "BYYBG": {
+            "where": 1
+          },
+          "GGGYG": {
+            "verge": 1
+          }
+        }
+      },
+      "GBYBY": {
+        "purse": 1
+      },
+      "BBYBY": {
+        "nurse": {
+          "GGGGG": {
+            "nurse": 1
+          },
+          "BGGGG": {
+            "curse": 1
+          },
+          "BGGYG": {
+            "surge": 1
+          }
+        }
+      },
+      "GYBGB": {
+        "prime": 1
+      },
+      "YYBBY": {
+        "spire": 1
+      },
+      "BBBGB": {
+        "creme": 1
+      },
+      "BBBYB": {
+        "merge": 1
+      },
+      "BYYBB": {
+        "urine": 1
+      },
+      "GBGBB": {
+        "prude": {
+          "GGGGG": {
+            "prude": 1
+          },
+          "GGGBG": {
+            "prune": 1
+          }
+        }
+      },
+      "YBBBY": {
+        "spree": 1
+      },
+      "YBBBB": {
+        "crepe": 1
+      },
+      "BBGBB": {
+        "crude": 1
+      },
+      "BBYBB": {
+        "curve": 1
+      }
+    }
+  },
+  "BBGGY": {
+    "heath": {
+      "GGGGG": {
+        "heath": 1
+      },
+      "YGGGG": {
+        "death": 1
+      },
+      "BGGGB": {
+        "meaty": 1
+      }
+    }
+  },
+  "YBGBB": {
+    "dicks": {
+      "GBBBB": {
+        "drawn": {
+          "GYGYB": {
+            "dwarf": 1
+          },
+          "GGGGB": {
+            "drawl": 1
+          },
+          "GGGGG": {
+            "drawn": 1
+          },
+          "GGGBB": {
+            "drama": 1
+          }
+        }
+      },
+      "BBYBB": {
+        "abysm": {
+          "YBYBB": {
+            "crazy": 1
+          },
+          "YBBBY": {
+            "cramp": 1
+          },
+          "YBBBG": {
+            "charm": 1
+          },
+          "YBBBB": {
+            "crawl": 1
+          }
+        }
+      },
+      "GYBBB": {
+        "drain": 1
+      },
+      "BBYBG": {
+        "crass": 1
+      },
+      "BBYYB": {
+        "wrack": {
+          "BGGYG": {
+            "crank": 1
+          },
+          "GGGGG": {
+            "wrack": 1
+          },
+          "BGGGG": {
+            "crack": 1
+          }
+        }
+      },
+      "YBBBY": {
+        "shard": 1
+      },
+      "BYBBB": {
+        "grain": {
+          "BYGGB": {
+            "flair": 1
+          },
+          "BGGGG": {
+            "brain": 1
+          },
+          "BGGGB": {
+            "frail": 1
+          },
+          "GGGGG": {
+            "grain": 1
+          },
+          "GGGGB": {
+            "grail": 1
+          }
+        }
+      },
+      "BBBBY": {
+        "ahing": {
+          "YBBYB": {
+            "snarl": 1
+          },
+          "YBBBB": {
+            "swarm": 1
+          },
+          "YYBBB": {
+            "brash": 1
+          },
+          "YGBBB": {
+            "sharp": 1
+          },
+          "YBBBY": {
+            "grasp": 1
+          }
+        }
+      },
+      "BBBBB": {
+        "prawn": {
+          "BYGYB": {
+            "wharf": 1
+          },
+          "BGGGG": {
+            "brawn": 1
+          },
+          "BGGBB": {
+            "gravy": 1
+          },
+          "BYGBB": {
+            "alarm": 1
+          },
+          "YGGBB": {
+            "graph": 1
+          },
+          "GGGGG": {
+            "prawn": 1
+          },
+          "BGGGB": {
+            "brawl": 1
+          }
+        }
+      },
+      "YBBBB": {
+        "guard": {
+          "BBGGG": {
+            "award": 1
+          },
+          "BYGYG": {
+            "fraud": 1
+          },
+          "BBGYG": {
+            "brand": 1
+          },
+          "GBGYG": {
+            "grand": 1
+          },
+          "GGGGG": {
+            "guard": 1
+          }
+        }
+      },
+      "YYBBB": {
+        "braid": 1
+      },
+      "BBBBG": {
+        "brass": {
+          "GGGGG": {
+            "brass": 1
+          },
+          "BGGGG": {
+            "grass": 1
+          }
+        }
+      },
+      "BBYBY": {
+        "scary": {
+          "YYGYB": {
+            "crash": 1
+          },
+          "GGGGB": {
+            "scarf": 1
+          },
+          "GGGGG": {
+            "scary": 1
+          }
+        }
+      },
+      "GGBBB": {
+        "diary": 1
+      },
+      "GBBYB": {
+        "drank": 1
+      },
+      "BBBYB": {
+        "prank": {
+          "GGGGG": {
+            "prank": 1
+          },
+          "BYGBG": {
+            "quark": 1
+          },
+          "BGGGG": {
+            "frank": 1
+          }
+        }
+      },
+      "BYYBB": {
+        "chair": 1
+      },
+      "BBBYY": {
+        "shark": {
+          "GGGGG": {
+            "shark": 1
+          },
+          "GBGGG": {
+            "spark": 1
+          }
+        }
+      },
+      "YBYBB": {
+        "chard": 1
+      }
+    }
+  },
+  "BGBBY": {
+    "wynds": {
+      "BBBYB": {
+        "model": {
+          "GGGGG": {
+            "model": 1
+          },
+          "GGGGB": {
+            "modem": 1
+          }
+        }
+      },
+      "BBBBB": {
+        "golem": {
+          "GGGGG": {
+            "golem": 1
+          },
+          "BGYGB": {
+            "hovel": 1
+          }
+        }
+      },
+      "BBYYB": {
+        "dozen": 1
+      },
+      "BYGBB": {
+        "abamp": {
+          "BBBYB": {
+            "money": 1
+          },
+          "BBBBB": {
+            "honey": 1
+          },
+          "BYBBB": {
+            "boney": 1
+          }
+        }
+      },
+      "GBYBB": {
+        "amoks": {
+          "BBYBB": {
+            "woven": 1
+          },
+          "BBYYB": {
+            "woken": 1
+          },
+          "BYYBB": {
+            "women": 1
+          }
+        }
+      },
+      "YBBYB": {
+        "dowel": 1
+      },
+      "YBBBB": {
+        "bowel": {
+          "GGGGG": {
+            "bowel": 1
+          },
+          "BGGGG": {
+            "vowel": 1
+          }
+        }
+      },
+      "BYBBY": {
+        "poesy": 1
+      },
+      "BBYBB": {
+        "novel": {
+          "GGGGG": {
+            "novel": 1
+          },
+          "YGGGB": {
+            "coven": 1
+          }
+        }
+      },
+      "BYBBB": {
+        "covey": {
+          "GGGGG": {
+            "covey": 1
+          },
+          "BGBGG": {
+            "gooey": 1
+          }
+        }
+      },
+      "BYYBY": {
+        "nosey": 1
+      },
+      "BYBYB": {
+        "dopey": 1
+      }
+    }
+  },
+  "BBBYB": {
+    "shunt": {
+      "GBBGY": {
+        "stink": {
+          "GGGGG": {
+            "stink": 1
+          },
+          "GGGGB": {
+            "sting": 1
+          }
+        }
+      },
+      "BBBBG": {
+        "limit": {
+          "BGBGG": {
+            "digit": 1
+          },
+          "GGGGG": {
+            "limit": 1
+          },
+          "BYBYG": {
+            "twixt": 1
+          }
+        }
+      },
+      "BGGBY": {
+        "thumb": {
+          "GGGGG": {
+            "thumb": 1
+          },
+          "GGGGB": {
+            "thump": 1
+          }
+        }
+      },
+      "BYYBY": {
+        "aband": {
+          "BBBBY": {
+            "dutch": 1
+          },
+          "BYBBB": {
+            "butch": 1
+          },
+          "BBBBB": {
+            "hutch": 1
+          }
+        }
+      },
+      "BYBBY": {
+        "hyped": {
+          "YYYBB": {
+            "pithy": 1
+          },
+          "YBYBB": {
+            "pitch": 1
+          },
+          "GBBBB": {
+            "hitch": 1
+          },
+          "YYBBB": {
+            "itchy": 1
+          },
+          "YBBBY": {
+            "ditch": 1
+          },
+          "YBBBB": {
+            "witch": 1
+          }
+        }
+      },
+      "BYBBG": {
+        "wolfs": {
+          "BBYBB": {
+            "light": 1
+          },
+          "BBBBB": {
+            "might": {
+              "GGGGG": {
+                "might": 1
+              },
+              "BGGGG": {
+                "tight": 1
+              }
+            }
+          },
+          "GBBBB": {
+            "wight": 1
+          },
+          "BBBYB": {
+            "fight": 1
+          }
+        }
+      },
+      "YBBBG": {
+        "visit": {
+          "BGYYG": {
+            "midst": 1
+          },
+          "GGGGG": {
+            "visit": 1
+          },
+          "BYYYG": {
+            "twist": 1
+          }
+        }
+      },
+      "YBBBY": {
+        "tipsy": 1
+      },
+      "BBYYG": {
+        "unlit": {
+          "YGBYG": {
+            "input": 1
+          },
+          "GGBGG": {
+            "unfit": 1
+          },
+          "GGGGG": {
+            "unlit": 1
+          },
+          "GGBBG": {
+            "uncut": 1
+          }
+        }
+      },
+      "BYBYG": {
+        "night": 1
+      },
+      "GBBBY": {
+        "acold": {
+          "BYBBB": {
+            "stick": 1
+          },
+          "BBBGB": {
+            "still": 1
+          },
+          "BBBBB": {
+            "stiff": 1
+          }
+        }
+      },
+      "GBGBY": {
+        "calmy": {
+          "YBBBB": {
+            "stuck": 1
+          },
+          "BBBBG": {
+            "study": 1
+          },
+          "BBBGB": {
+            "stump": 1
+          },
+          "BBBBB": {
+            "stuff": 1
+          }
+        }
+      },
+      "GBBBG": {
+        "stilt": {
+          "GYGGG": {
+            "spilt": 1
+          },
+          "GYGBG": {
+            "swift": 1
+          },
+          "GGGGG": {
+            "stilt": 1
+          },
+          "GYYYG": {
+            "split": 1
+          }
+        }
+      },
+      "BBYBG": {
+        "badge": {
+          "GBBBB": {
+            "built": 1
+          },
+          "BBBBB": {
+            "quilt": 1
+          },
+          "BBBYB": {
+            "guilt": 1
+          }
+        }
+      },
+      "BBYYY": {
+        "tunic": {
+          "GGGGG": {
+            "tunic": 1
+          },
+          "YYYGB": {
+            "until": 1
+          }
+        }
+      },
+      "GBGGY": {
+        "stung": {
+          "GGGGG": {
+            "stung": 1
+          },
+          "GGGGB": {
+            "stunk": 1
+          }
+        }
+      },
+      "BBBGG": {
+        "flint": {
+          "GGGGG": {
+            "flint": 1
+          },
+          "BGGGG": {
+            "glint": 1
+          }
+        }
+      },
+      "GGGGG": {
+        "shunt": 1
+      },
+      "BBYBY": {
+        "tulip": 1
+      },
+      "GBBGG": {
+        "stint": 1
+      },
+      "GGBBG": {
+        "shift": 1
+      },
+      "BBGGG": {
+        "blunt": 1
+      },
+      "GBGGG": {
+        "stunt": 1
+      },
+      "BBBGY": {
+        "tying": 1
+      },
+      "BGBBY": {
+        "thick": {
+          "GGGGG": {
+            "thick": 1
+          },
+          "GGGBB": {
+            "thigh": 1
+          }
+        }
+      },
+      "GYBBG": {
+        "sight": 1
+      },
+      "BGBGY": {
+        "think": {
+          "GGGGG": {
+            "think": 1
+          },
+          "GGGGB": {
+            "thing": 1
+          }
+        }
+      },
+      "BBBBY": {
+        "timid": 1
+      }
+    }
+  },
+  "YBGBG": {
+    "crogs": {
+      "BGBYB": {
+        "paved": {
+          "BYBYY": {
+            "grade": 1
+          },
+          "BYYYB": {
+            "grave": 1
+          },
+          "YYBYB": {
+            "grape": 1
+          },
+          "BYBYB": {
+            "graze": 1
+          }
+        }
+      },
+      "BGBBB": {
+        "baked": {
+          "GYYYB": {
+            "brake": 1
+          },
+          "BYBYB": {
+            "frame": 1
+          },
+          "GYBYB": {
+            "brave": 1
+          },
+          "BYYYY": {
+            "drake": 1
+          },
+          "BYBYY": {
+            "drape": 1
+          }
+        }
+      },
+      "GGBBB": {
+        "anvil": {
+          "YBBBB": {
+            "craze": 1
+          },
+          "YBYBB": {
+            "crave": 1
+          },
+          "YYBBB": {
+            "crane": 1
+          }
+        }
+      },
+      "YYBBY": {
+        "scare": 1
+      },
+      "YGBYB": {
+        "grace": 1
+      },
+      "BYBBY": {
+        "adhan": {
+          "YBBYY": {
+            "snare": 1
+          },
+          "YBYYB": {
+            "share": 1
+          },
+          "YBBYB": {
+            "spare": 1
+          }
+        }
+      },
+      "BYBBB": {
+        "flare": {
+          "BBGGG": {
+            "aware": 1
+          },
+          "BGGGG": {
+            "blare": 1
+          },
+          "GGGGG": {
+            "flare": 1
+          }
+        }
+      },
+      "BYBYB": {
+        "glare": 1
+      },
+      "BGBBY": {
+        "erase": 1
+      },
+      "YGBBB": {
+        "brace": 1
+      }
+    }
+  },
+  "BBBYY": {
+    "siled": {
+      "BYBGB": {
+        "quiet": {
+          "GGGGG": {
+            "quiet": 1
+          },
+          "BBGGY": {
+            "thief": 1
+          }
+        }
+      },
+      "BBBGB": {
+        "tenet": {
+          "YYYGG": {
+            "unmet": 1
+          },
+          "GGGGG": {
+            "tenet": 1
+          },
+          "YGBGG": {
+            "beget": 1
+          },
+          "GYBGG": {
+            "tweet": 1
+          }
+        }
+      },
+      "YYGGB": {
+        "islet": 1
+      },
+      "BBBGG": {
+        "tweed": 1
+      },
+      "GBBGG": {
+        "steed": 1
+      },
+      "BBYYB": {
+        "exult": {
+          "GGGGG": {
+            "exult": 1
+          },
+          "GBBYG": {
+            "elect": 1
+          },
+          "YBBGG": {
+            "knelt": 1
+          },
+          "YBBYG": {
+            "cleft": 1
+          }
+        }
+      },
+      "GBBGB": {
+        "sweet": {
+          "GGGGG": {
+            "sweet": 1
+          },
+          "GBGGG": {
+            "sheet": 1
+          },
+          "GBGGY": {
+            "steep": 1
+          }
+        }
+      },
+      "GBYYB": {
+        "spelt": {
+          "GBGGG": {
+            "smelt": 1
+          },
+          "GGGGG": {
+            "spelt": 1
+          },
+          "GYGYG": {
+            "slept": 1
+          }
+        }
+      },
+      "YBBYB": {
+        "quest": {
+          "BBGGG": {
+            "chest": 1
+          },
+          "BYYYY": {
+            "fetus": 1
+          },
+          "BGGGG": {
+            "guest": 1
+          },
+          "GGGGG": {
+            "quest": 1
+          }
+        }
+      },
+      "YYBYB": {
+        "heist": {
+          "GGGGG": {
+            "heist": 1
+          },
+          "BYGGG": {
+            "exist": 1
+          }
+        }
+      },
+      "YBBGB": {
+        "upset": {
+          "GGGGG": {
+            "upset": 1
+          },
+          "GBGGG": {
+            "unset": 1
+          },
+          "BBGGG": {
+            "beset": 1
+          }
+        }
+      },
+      "GYBYB": {
+        "stein": 1
+      },
+      "BYBYB": {
+        "ethic": {
+          "YYBYB": {
+            "inept": 1
+          },
+          "GYBYY": {
+            "evict": 1
+          },
+          "GGGGG": {
+            "ethic": 1
+          },
+          "YYBGB": {
+            "befit": 1
+          }
+        }
+      },
+      "BBYGB": {
+        "fleet": {
+          "GGGGG": {
+            "fleet": 1
+          },
+          "BYYGY": {
+            "betel": 1
+          }
+        }
+      },
+      "GBYGB": {
+        "sleet": {
+          "GGGGG": {
+            "sleet": 1
+          },
+          "GYGGY": {
+            "steel": 1
+          }
+        }
+      },
+      "BYBYY": {
+        "edict": {
+          "GGGGG": {
+            "edict": 1
+          },
+          "YYYBG": {
+            "debit": 1
+          }
+        }
+      },
+      "BYBYG": {
+        "fetid": {
+          "GGGGG": {
+            "fetid": 1
+          },
+          "BGYGG": {
+            "tepid": 1
+          }
+        }
+      },
+      "BBYYY": {
+        "dwelt": 1
+      },
+      "BGBYB": {
+        "eight": 1
+      },
+      "BBBYB": {
+        "fetch": {
+          "BYYBB": {
+            "event": 1
+          },
+          "GGGGG": {
+            "fetch": 1
+          },
+          "YYYBY": {
+            "theft": 1
+          },
+          "BYYGB": {
+            "eject": 1
+          }
+        }
+      },
+      "BGGGB": {
+        "filet": 1
+      },
+      "BBBGY": {
+        "duvet": 1
+      },
+      "GBBYB": {
+        "swept": {
+          "GGGGG": {
+            "swept": 1
+          },
+          "GBGBG": {
+            "scent": 1
+          },
+          "GBGYG": {
+            "spent": 1
+          },
+          "GBYYY": {
+            "setup": 1
+          }
+        }
+      },
+      "BBBYY": {
+        "debut": {
+          "GGGGG": {
+            "debut": 1
+          },
+          "YGBBY": {
+            "teddy": 1
+          }
+        }
+      },
+      "BYGGB": {
+        "inlet": 1
+      }
+    }
+  },
+  "BBBBY": {
+    "silen": {
+      "BBBYY": {
+        "wench": {
+          "BGGGG": {
+            "bench": 1
+          },
+          "GGGGG": {
+            "wench": 1
+          },
+          "BGYBB": {
+            "needy": 1
+          },
+          "BYYBB": {
+            "enemy": 1
+          },
+          "BGGBB": {
+            "penny": 1
+          }
+        }
+      },
+      "BYBYG": {
+        "feign": {
+          "GGGGG": {
+            "feign": 1
+          },
+          "BGGGG": {
+            "deign": 1
+          },
+          "BGYYG": {
+            "begin": 1
+          }
+        }
+      },
+      "BYGYB": {
+        "helix": 1
+      },
+      "BBBGY": {
+        "unwed": {
+          "GGBGG": {
+            "unfed": 1
+          },
+          "GGGGG": {
+            "unwed": 1
+          },
+          "BGBGG": {
+            "kneed": 1
+          }
+        }
+      },
+      "BBYYB": {
+        "chewy": {
+          "BGGYB": {
+            "whelp": 1
+          },
+          "BBGBB": {
+            "quell": 1
+          },
+          "BBGYB": {
+            "dwell": 1
+          },
+          "BBGBG": {
+            "elegy": 1
+          },
+          "BBYBG": {
+            "leggy": 1
+          },
+          "YYGBB": {
+            "leech": 1
+          },
+          "YBGBB": {
+            "fleck": 1
+          }
+        }
+      },
+      "BGYGG": {
+        "linen": {
+          "GGGGG": {
+            "linen": 1
+          },
+          "GGYGG": {
+            "liken": 1
+          }
+        }
+      },
+      "YBYYB": {
+        "flesh": {
+          "GGGGG": {
+            "flesh": 1
+          },
+          "BGGGB": {
+            "bless": 1
+          }
+        }
+      },
+      "BBGYB": {
+        "belly": {
+          "GGGGG": {
+            "belly": 1
+          },
+          "GGGYB": {
+            "belch": 1
+          },
+          "BGGGG": {
+            "jelly": 1
+          },
+          "BGGYB": {
+            "welch": 1
+          }
+        }
+      },
+      "GBBYB": {
+        "seedy": {
+          "GGGGG": {
+            "seedy": 1
+          },
+          "GYGBB": {
+            "speck": 1
+          }
+        }
+      },
+      "BBYGB": {
+        "bedew": {
+          "GYYGB": {
+            "bleed": 1
+          },
+          "BYBGB": {
+            "excel": {
+              "GGGGG": {
+                "excel": 1
+              },
+              "GGBGG": {
+                "expel": 1
+              }
+            }
+          },
+          "BGBGB": {
+            "level": 1
+          },
+          "BYYGB": {
+            "clued": 1
+          },
+          "BYBGY": {
+            "wheel": 1
+          },
+          "GGBGB": {
+            "bevel": {
+              "GGGGG": {
+                "bevel": 1
+              },
+              "GGBGG": {
+                "bezel": 1
+              }
+            }
+          },
+          "BGBGY": {
+            "jewel": 1
+          },
+          "GYBGB": {
+            "bleep": 1
+          }
+        }
+      },
+      "GBBYY": {
+        "spend": 1
+      },
+      "BBBGB": {
+        "cheek": {
+          "GGGGG": {
+            "cheek": 1
+          },
+          "BBYGB": {
+            "embed": 1
+          }
+        }
+      },
+      "BGYYB": {
+        "alway": {
+          "BYBBY": {
+            "yield": 1
+          },
+          "BYBBB": {
+            "field": 1
+          },
+          "BYYBB": {
+            "wield": 1
+          }
+        }
+      },
+      "BYBYY": {
+        "eying": {
+          "YBGGG": {
+            "being": 1
+          },
+          "YBYYB": {
+            "denim": 1
+          },
+          "GBYYB": {
+            "ennui": 1
+          },
+          "YBGYY": {
+            "neigh": 1
+          },
+          "GBGGG": {
+            "eking": 1
+          },
+          "GGGGG": {
+            "eying": 1
+          }
+        }
+      },
+      "BYBGB": {
+        "chief": 1
+      },
+      "GYYGB": {
+        "spiel": 1
+      },
+      "BGYGB": {
+        "libel": {
+          "GGGGG": {
+            "libel": 1
+          },
+          "YGBGG": {
+            "pixel": 1
+          }
+        }
+      },
+      "BGBGY": {
+        "piney": 1
+      },
+      "GBYYB": {
+        "wimpy": {
+          "BBBYB": {
+            "spell": 1
+          },
+          "BBBBB": {
+            "shell": {
+              "GGGGG": {
+                "shell": 1
+              },
+              "GGGGY": {
+                "shelf": 1
+              }
+            }
+          },
+          "BBYBB": {
+            "smell": 1
+          },
+          "YBBBB": {
+            "swell": 1
+          }
+        }
+      },
+      "BYBYB": {
+        "weigh": {
+          "BYYBB": {
+            "equip": 1
+          },
+          "BYGBB": {
+            "edify": 1
+          },
+          "GGGGG": {
+            "weigh": 1
+          },
+          "BGYBB": {
+            "medic": 1
+          }
+        }
+      },
+      "BGBGG": {
+        "vixen": {
+          "YGBGG": {
+            "given": 1
+          },
+          "GGGGG": {
+            "vixen": 1
+          },
+          "BGBGG": {
+            "widen": 1
+          }
+        }
+      },
+      "GBBGG": {
+        "seven": {
+          "GYBGG": {
+            "sheen": 1
+          },
+          "GGGGG": {
+            "seven": 1
+          },
+          "GGBGG": {
+            "semen": 1
+          }
+        }
+      },
+      "GBYGB": {
+        "sleep": {
+          "GGGGG": {
+            "sleep": 1
+          },
+          "GGGGB": {
+            "sleek": 1
+          }
+        }
+      },
+      "BYBGY": {
+        "index": 1
+      },
+      "BBYGY": {
+        "kneel": 1
+      },
+      "BBBYG": {
+        "begun": 1
+      },
+      "BBBYB": {
+        "alkyd": {
+          "BBBBB": {
+            "beech": 1
+          },
+          "BBYYB": {
+            "geeky": 1
+          },
+          "BBYBB": {
+            "check": 1
+          },
+          "BBBYB": {
+            "beefy": 1
+          },
+          "BBBYY": {
+            "weedy": 1
+          },
+          "BBBBY": {
+            "debug": 1
+          }
+        }
+      },
+      "GBBGB": {
+        "sweep": {
+          "GGGGG": {
+            "sweep": 1
+          },
+          "GBGGY": {
+            "speed": 1
+          },
+          "GBGGG": {
+            "sheep": 1
+          }
+        }
+      },
+      "GYBGB": {
+        "shied": {
+          "GGGGG": {
+            "shied": 1
+          },
+          "GBGGG": {
+            "spied": 1
+          }
+        }
+      },
+      "BBBGG": {
+        "queen": {
+          "GGGGG": {
+            "queen": 1
+          },
+          "BBYGG": {
+            "hymen": 1
+          }
+        }
+      },
+      "GYBYB": {
+        "sheik": 1
+      },
+      "BGBYY": {
+        "fiend": 1
+      },
+      "BYYGB": {
+        "plied": {
+          "GGGGG": {
+            "plied": 1
+          },
+          "YYYGB": {
+            "impel": 1
+          }
+        }
+      },
+      "YBGYB": {
+        "welsh": 1
+      },
+      "YBBYB": {
+        "guess": {
+          "BBYYY": {
+            "pesky": 1
+          },
+          "GGGGG": {
+            "guess": 1
+          },
+          "BBGGG": {
+            "chess": 1
+          }
+        }
+      },
+      "BBYYY": {
+        "blend": {
+          "GGGGG": {
+            "blend": 1
+          },
+          "BYYYB": {
+            "newly": 1
+          }
+        }
+      },
+      "BYYYG": {
+        "elfin": 1
+      },
+      "BGBGB": {
+        "dicey": {
+          "GGGGG": {
+            "dicey": 1
+          },
+          "BGGGB": {
+            "bicep": 1
+          }
+        }
+      },
+      "YBBGB": {
+        "bused": 1
+      },
+      "GGBGY": {
+        "sinew": 1
+      },
+      "BYYYB": {
+        "devil": 1
+      },
+      "BBYGG": {
+        "lumen": 1
+      }
+    }
+  },
+  "BBGGG": {
+    "stilb": {
+      "BYBBY": {
+        "abate": 1
+      },
+      "BYBBB": {
+        "agate": 1
+      },
+      "GYBYB": {
+        "slate": 1
+      },
+      "BYBYB": {
+        "plate": {
+          "GGGGG": {
+            "plate": 1
+          },
+          "BGGGG": {
+            "elate": 1
+          }
+        }
+      },
+      "GYBBB": {
+        "skate": 1
+      },
+      "GGBBB": {
+        "state": 1
+      }
+    }
+  },
+  "YYYBB": {
+    "macon": {
+      "GGBGB": {
+        "major": {
+          "GGGGG": {
+            "major": 1
+          },
+          "GGBGG": {
+            "mayor": 1
+          }
+        }
+      },
+      "BYYYB": {
+        "croak": 1
+      },
+      "BGBGB": {
+        "blips": {
+          "YYBBB": {
+            "labor": 1
+          },
+          "BBBBB": {
+            "favor": 1
+          },
+          "BYBBB": {
+            "valor": 1
+          },
+          "BBBYB": {
+            "vapor": 1
+          },
+          "BBBBY": {
+            "savor": 1
+          }
+        }
+      },
+      "BYBYB": {
+        "flora": {
+          "BBGGG": {
+            "agora": 1
+          },
+          "GGGGG": {
+            "flora": 1
+          },
+          "BBGYY": {
+            "broad": 1
+          }
+        }
+      },
+      "YYBYB": {
+        "aroma": 1
+      },
+      "BGYYB": {
+        "cargo": 1
+      },
+      "GGBGY": {
+        "manor": 1
+      },
+      "BYBGG": {
+        "apron": {
+          "GGGGG": {
+            "apron": 1
+          },
+          "GBYGG": {
+            "arson": 1
+          }
+        }
+      },
+      "BYBYG": {
+        "organ": {
+          "YGYGG": {
+            "groan": 1
+          },
+          "YYBYG": {
+            "adorn": 1
+          },
+          "GGGGG": {
+            "organ": 1
+          }
+        }
+      },
+      "BYBGB": {
+        "ardor": {
+          "GGGGG": {
+            "ardor": 1
+          },
+          "GGBGG": {
+            "arbor": 1
+          },
+          "GGBGY": {
+            "arrow": 1
+          },
+          "GYBGG": {
+            "abhor": 1
+          }
+        }
+      },
+      "BYYYG": {
+        "acorn": 1
+      },
+      "BGYGB": {
+        "carol": 1
+      },
+      "YYBGB": {
+        "armor": 1
+      },
+      "GGGYB": {
+        "macro": 1
+      },
+      "BGBGG": {
+        "baron": 1
+      }
+    }
+  },
+  "YBBBY": {
+    "siled": {
+      "YBBYB": {
+        "press": {
+          "BGGGY": {
+            "fresh": 1
+          },
+          "BGGGG": {
+            "cress": 1
+          },
+          "GGGGG": {
+            "press": 1
+          }
+        }
+      },
+      "BBBGB": {
+        "upend": {
+          "BYYBB": {
+            "hyper": 1
+          },
+          "BBYBB": {
+            "awmry": {
+              "BYBYB": {
+                "fewer": 1
+              },
+              "BBBYY": {
+                "cyber": 1
+              },
+              "BBYYB": {
+                "ember": 1
+              },
+              "BBBYB": {
+                "fever": 1
+              }
+            }
+          },
+          "BBGBB": {
+            "freer": {
+              "BGGGY": {
+                "creek": 1
+              },
+              "GGGGG": {
+                "freer": 1
+              },
+              "BYGGG": {
+                "cheer": 1
+              }
+            }
+          },
+          "YBGBB": {
+            "queer": 1
+          },
+          "BYGBB": {
+            "creep": 1
+          },
+          "YBYBB": {
+            "buyer": 1
+          },
+          "BYGYB": {
+            "preen": 1
+          },
+          "BBYYB": {
+            "never": {
+              "GGGGG": {
+                "never": 1
+              },
+              "GGBGG": {
+                "newer": 1
+              }
+            }
+          },
+          "GGYBB": {
+            "upper": 1
+          },
+          "BBGYB": {
+            "green": 1
+          },
+          "YYYBB": {
+            "purer": 1
+          }
+        }
+      },
+      "BGBGB": {
+        "pungs": {
+          "BBBBB": {
+            "fixer": {
+              "GGGGG": {
+                "fixer": 1
+              },
+              "GGBGG": {
+                "fiber": 1
+              }
+            }
+          },
+          "BBGBB": {
+            "finer": {
+              "GGGGG": {
+                "finer": 1
+              },
+              "BGGGG": {
+                "miner": 1
+              }
+            }
+          },
+          "BBYBB": {
+            "nicer": 1
+          },
+          "BBBYB": {
+            "giver": 1
+          },
+          "GBBBB": {
+            "piper": 1
+          },
+          "YBBBB": {
+            "viper": 1
+          }
+        }
+      },
+      "GBBGB": {
+        "wersh": {
+          "BYGYB": {
+            "surer": 1
+          },
+          "BGYYB": {
+            "sever": 1
+          },
+          "BYYYB": {
+            "sneer": {
+              "GGGGG": {
+                "sneer": 1
+              },
+              "GBYGG": {
+                "super": 1
+              }
+            }
+          },
+          "YYGYY": {
+            "shrew": 1
+          },
+          "YYGYB": {
+            "screw": 1
+          },
+          "YGYYB": {
+            "sewer": 1
+          },
+          "BYYYY": {
+            "sheer": 1
+          }
+        }
+      },
+      "BBBYB": {
+        "murry": {
+          "BBGYB": {
+            "perch": 1
+          },
+          "BBGGG": {
+            "ferry": {
+              "GGGGG": {
+                "ferry": 1
+              },
+              "BGGGG": {
+                "berry": 1
+              }
+            }
+          },
+          "BGYGG": {
+            "query": 1
+          },
+          "BBGYG": {
+            "perky": {
+              "GGGGG": {
+                "perky": 1
+              },
+              "BGGGG": {
+                "jerky": 1
+              }
+            }
+          },
+          "BBYYB": {
+            "wreck": 1
+          },
+          "BBYGG": {
+            "every": 1
+          },
+          "GBGGG": {
+            "merry": 1
+          },
+          "YYYYB": {
+            "femur": 1
+          },
+          "GBGYG": {
+            "mercy": 1
+          }
+        }
+      },
+      "YBBGB": {
+        "usher": 1
+      },
+      "BBYGY": {
+        "elder": 1
+      },
+      "BBYGB": {
+        "clump": {
+          "YGYBB": {
+            "ulcer": 1
+          },
+          "BYGBB": {
+            "gruel": 1
+          },
+          "BGBBB": {
+            "flyer": 1
+          },
+          "BGGBB": {
+            "bluer": 1
+          },
+          "GYGBB": {
+            "cruel": 1
+          },
+          "BYBBY": {
+            "leper": 1
+          },
+          "BYBBB": {
+            "lever": 1
+          }
+        }
+      },
+      "BGYGB": {
+        "liver": {
+          "GGGGG": {
+            "liver": 1
+          },
+          "GGBGG": {
+            "liner": 1
+          }
+        }
+      },
+      "BBYYB": {
+        "lemur": {
+          "GGBBY": {
+            "leery": 1
+          },
+          "GGGGG": {
+            "lemur": 1
+          },
+          "YYBBY": {
+            "clerk": 1
+          }
+        }
+      },
+      "BBBGY": {
+        "arnut": {
+          "BYBYB": {
+            "udder": 1
+          },
+          "BGBBB": {
+            "dryer": 1
+          },
+          "BYBBB": {
+            "defer": 1
+          },
+          "BYYYB": {
+            "under": 1
+          }
+        }
+      },
+      "BBBYY": {
+        "nerdy": {
+          "BGGYG": {
+            "derby": 1
+          },
+          "BGYYB": {
+            "demur": 1
+          },
+          "GGGGG": {
+            "nerdy": 1
+          },
+          "BGYYG": {
+            "decry": 1
+          }
+        }
+      },
+      "BGBGY": {
+        "clown": {
+          "BBBBY": {
+            "diner": 1
+          },
+          "BBBBB": {
+            "diver": 1
+          },
+          "BBBYB": {
+            "wider": 1
+          },
+          "GBBBB": {
+            "cider": 1
+          }
+        }
+      },
+      "GGBGB": {
+        "siren": 1
+      },
+      "BYYGB": {
+        "plier": {
+          "GGGGG": {
+            "plier": 1
+          },
+          "BGGGG": {
+            "flier": 1
+          }
+        }
+      },
+      "BYBGG": {
+        "decaf": {
+          "YYBBB": {
+            "pried": 1
+          },
+          "YYBBY": {
+            "fried": 1
+          },
+          "YYYBB": {
+            "cried": 1
+          },
+          "GYBBB": {
+            "dried": 1
+          }
+        }
+      },
+      "BBBGG": {
+        "befog": {
+          "BYBBB": {
+            "creed": 1
+          },
+          "GYBBB": {
+            "breed": 1
+          },
+          "BYYBB": {
+            "freed": 1
+          },
+          "BYBBY": {
+            "greed": 1
+          }
+        }
+      },
+      "BYBGB": {
+        "grief": {
+          "BYYGB": {
+            "inner": 1
+          },
+          "GGGGG": {
+            "grief": 1
+          },
+          "BYYGY": {
+            "infer": 1
+          },
+          "BGGGG": {
+            "brief": 1
+          },
+          "BGGGB": {
+            "crier": 1
+          }
+        }
+      },
+      "BYGGY": {
+        "idler": 1
+      },
+      "GBBYB": {
+        "serum": {
+          "GGGGG": {
+            "serum": 1
+          },
+          "GYYBG": {
+            "sperm": 1
+          }
+        }
+      },
+      "BGBYB": {
+        "fiery": 1
+      },
+      "BYBGY": {
+        "drier": 1
+      },
+      "BYBYG": {
+        "weird": 1
+      },
+      "YBBYY": {
+        "dress": 1
+      },
+      "GYBGB": {
+        "skier": 1
+      },
+      "YGBGB": {
+        "miser": {
+          "GGGGG": {
+            "miser": 1
+          },
+          "BGGGG": {
+            "wiser": 1
+          }
+        }
+      },
+      "GYBYB": {
+        "serif": 1
+      },
+      "BGGGB": {
+        "filer": 1
+      },
+      "BYYYB": {
+        "peril": 1
+      }
+    }
+  },
+  "YBBYB": {
+    "trips": {
+      "YGBBY": {
+        "crust": 1
+      },
+      "YYYBY": {
+        "first": 1
+      },
+      "YGGYB": {
+        "print": 1
+      },
+      "YYBBB": {
+        "blurt": {
+          "GGGGG": {
+            "blurt": 1
+          },
+          "GBYYG": {
+            "burnt": 1
+          }
+        }
+      },
+      "GGBBG": {
+        "truss": 1
+      },
+      "GGBBY": {
+        "tryst": {
+          "GGGGG": {
+            "tryst": 1
+          },
+          "GGBGG": {
+            "trust": 1
+          }
+        }
+      },
+      "GYGBB": {
+        "twirl": {
+          "GGGGG": {
+            "twirl": 1
+          },
+          "GBGGB": {
+            "third": 1
+          }
+        }
+      },
+      "YGGBY": {
+        "wrist": 1
+      },
+      "YYBBY": {
+        "strut": {
+          "GGGGG": {
+            "strut": 1
+          },
+          "YYGYG": {
+            "burst": 1
+          }
+        }
+      },
+      "GGGBB": {
+        "trick": 1
+      },
+      "YGBBB": {
+        "grunt": {
+          "GGGGG": {
+            "grunt": 1
+          },
+          "BGGGG": {
+            "brunt": 1
+          }
+        }
+      },
+      "YYGBB": {
+        "flirt": 1
+      },
+      "GGBBB": {
+        "trunk": {
+          "GGGBB": {
+            "truly": 1
+          },
+          "GGGGG": {
+            "trunk": 1
+          },
+          "GGGBG": {
+            "truck": 1
+          }
+        }
+      },
+      "YGBGB": {
+        "crypt": 1
+      },
+      "YYGBY": {
+        "shirt": {
+          "GGGGG": {
+            "shirt": 1
+          },
+          "GBGGG": {
+            "skirt": 1
+          }
+        }
+      },
+      "YYBYY": {
+        "spurt": 1
+      },
+      "YYYYY": {
+        "strip": 1
+      },
+      "YGGBB": {
+        "drift": 1
+      },
+      "GGBYB": {
+        "trump": 1
+      },
+      "YGYBB": {
+        "fruit": 1
+      },
+      "GYBBB": {
+        "thrum": 1
+      }
+    }
+  },
+  "BYBYB": {
+    "punch": {
+      "BBBBB": {
+        "stood": {
+          "GGGGB": {
+            "stool": 1
+          },
+          "BYYGY": {
+            "idiot": 1
+          },
+          "GGGGG": {
+            "stood": 1
+          },
+          "BYYGB": {
+            "bigot": 1
+          }
+        }
+      },
+      "BGBBB": {
+        "outdo": {
+          "GGGGG": {
+            "outdo": 1
+          },
+          "GGGBG": {
+            "outgo": 1
+          }
+        }
+      },
+      "BYBBB": {
+        "stout": {
+          "GGGGG": {
+            "stout": 1
+          },
+          "BYGGG": {
+            "flout": 1
+          }
+        }
+      },
+      "BGBBY": {
+        "ought": 1
+      },
+      "GBBBB": {
+        "pilot": {
+          "GGGGG": {
+            "pilot": 1
+          },
+          "GGBGG": {
+            "pivot": 1
+          }
+        }
+      },
+      "BYYBB": {
+        "snout": 1
+      },
+      "YBBBB": {
+        "stomp": {
+          "GGGGG": {
+            "stomp": 1
+          },
+          "GGGBG": {
+            "stoop": 1
+          }
+        }
+      },
+      "BBBBY": {
+        "ghost": {
+          "GGGGG": {
+            "ghost": 1
+          },
+          "BGGYG": {
+            "shoot": 1
+          }
+        }
+      },
+      "YYBBB": {
+        "spout": 1
+      },
+      "BBYBB": {
+        "stony": {
+          "GGGGG": {
+            "stony": 1
+          },
+          "BYYYB": {
+            "ingot": 1
+          }
+        }
+      },
+      "BBBGB": {
+        "stock": 1
+      },
+      "BBBYB": {
+        "stoic": 1
+      },
+      "YBBYB": {
+        "optic": 1
+      },
+      "BYBYB": {
+        "clout": {
+          "GGGGG": {
+            "clout": 1
+          },
+          "YBGGG": {
+            "scout": 1
+          }
+        }
+      },
+      "BYBBY": {
+        "shout": 1
+      },
+      "BBYBY": {
+        "thong": 1
+      }
+    }
+  },
+  "BGBBB": {
+    "bludy": {
+      "BYBBB": {
+        "login": {
+          "YGBBG": {
+            "colon": 1
+          },
+          "GGGGB": {
+            "logic": 1
+          },
+          "YGBGB": {
+            "folio": 1
+          },
+          "GGGGG": {
+            "login": 1
+          }
+        }
+      },
+      "BBGYB": {
+        "sumph": {
+          "BYBYB": {
+            "pound": 1
+          },
+          "BYBBB": {
+            "found": {
+              "GGGGG": {
+                "found": 1
+              },
+              "BGGGG": {
+                "wound": 1
+              }
+            }
+          },
+          "BYYBB": {
+            "mound": 1
+          },
+          "GYBBB": {
+            "sound": 1
+          },
+          "BYBBG": {
+            "dough": 1
+          },
+          "BYBBY": {
+            "hound": 1
+          }
+        }
+      },
+      "GBBBG": {
+        "booby": {
+          "GGGGG": {
+            "booby": 1
+          },
+          "GGGYG": {
+            "boozy": 1
+          },
+          "GGYGG": {
+            "bobby": 1
+          },
+          "GGYYG": {
+            "bossy": 1
+          }
+        }
+      },
+      "BYBBG": {
+        "whoof": {
+          "BBGYB": {
+            "loopy": 1
+          },
+          "YBYYB": {
+            "lowly": 1
+          },
+          "BBYYB": {
+            "jolly": {
+              "BGYGG": {
+                "coyly": 1
+              },
+              "GGGGG": {
+                "jolly": 1
+              },
+              "BGGGG": {
+                "golly": 1
+              }
+            }
+          },
+          "BBYYY": {
+            "folly": 1
+          },
+          "BYYYB": {
+            "holly": 1
+          },
+          "GBGYB": {
+            "wooly": 1
+          }
+        }
+      },
+      "BBBBB": {
+        "cains": {
+          "GBYYB": {
+            "conic": 1
+          },
+          "YBYYY": {
+            "sonic": 1
+          },
+          "YBYYB": {
+            "ionic": 1
+          },
+          "YBBBB": {
+            "pooch": 1
+          },
+          "GBYBB": {
+            "comic": 1
+          },
+          "GBBYB": {
+            "conch": 1
+          },
+          "BBGGB": {
+            "going": 1
+          }
+        }
+      },
+      "BYGYB": {
+        "could": {
+          "GGGGG": {
+            "could": 1
+          },
+          "BGGGG": {
+            "would": 1
+          }
+        }
+      },
+      "BBYBB": {
+        "focus": 1
+      },
+      "BBGBB": {
+        "vouch": {
+          "GGGGG": {
+            "vouch": 1
+          },
+          "BGGGG": {
+            "couch": {
+              "GGGGG": {
+                "couch": 1
+              },
+              "YGGGG": {
+                "pouch": 1
+              }
+            }
+          },
+          "BGGYG": {
+            "cough": 1
+          }
+        }
+      },
+      "BBBBG": {
+        "gamps": {
+          "YBBBY": {
+            "soggy": 1
+          },
+          "YBBBB": {
+            "foggy": 1
+          },
+          "BBBBB": {
+            "woozy": 1
+          },
+          "BBBGB": {
+            "poppy": 1
+          },
+          "BBGBB": {
+            "comfy": 1
+          },
+          "BBBBY": {
+            "noisy": 1
+          },
+          "GBBBB": {
+            "goofy": 1
+          },
+          "BBYBY": {
+            "mossy": 1
+          }
+        }
+      },
+      "GBGBB": {
+        "bough": 1
+      },
+      "BBBGG": {
+        "hawms": {
+          "GBGBB": {
+            "howdy": 1
+          },
+          "BBBBB": {
+            "goody": 1
+          },
+          "BBGBB": {
+            "dowdy": 1
+          },
+          "BBYBB": {
+            "woody": 1
+          },
+          "BBBYB": {
+            "moody": 1
+          }
+        }
+      },
+      "BYBYG": {
+        "godly": {
+          "GGGGG": {
+            "godly": 1
+          },
+          "BGYGG": {
+            "dolly": 1
+          }
+        }
+      },
+      "YYBBG": {
+        "lobby": {
+          "GGGGG": {
+            "lobby": 1
+          },
+          "YGGYG": {
+            "nobly": 1
+          }
+        }
+      },
+      "BYBGG": {
+        "moldy": 1
+      },
+      "BBBYB": {
+        "doing": 1
+      },
+      "GBBBB": {
+        "bongo": {
+          "GGGGG": {
+            "bongo": 1
+          },
+          "GGBBY": {
+            "bosom": 1
+          }
+        }
+      },
+      "BYBYB": {
+        "solid": 1
+      },
+      "BYBBY": {
+        "polyp": 1
+      },
+      "BBGBY": {
+        "young": 1
+      },
+      "GBYBB": {
+        "bonus": 1
+      },
+      "BYYBB": {
+        "mogul": {
+          "GGGGG": {
+            "mogul": 1
+          },
+          "BGBGY": {
+            "locus": 1
+          }
+        }
+      },
+      "YBBBG": {
+        "hobby": 1
+      },
+      "BYGBG": {
+        "lousy": 1
+      },
+      "GBGYB": {
+        "bound": 1
+      },
+      "BBBYG": {
+        "dodgy": {
+          "GGGGG": {
+            "dodgy": 1
+          },
+          "GGYBG": {
+            "downy": 1
+          }
+        }
+      },
+      "BBBGB": {
+        "condo": 1
+      }
+    }
+  },
+  "GBGYY": {
+    "react": 1
+  },
+  "BBYGB": {
+    "spiny": {
+      "BBBBG": {
+        "zebec": {
+          "BBYBB": {
+            "batty": 1
+          },
+          "BBBBB": {
+            "tatty": {
+              "GGGGG": {
+                "tatty": 1
+              },
+              "YGGGG": {
+                "fatty": 1
+              }
+            }
+          },
+          "BBBBY": {
+            "catty": 1
+          }
+        }
+      },
+      "YBBYG": {
+        "nasty": 1
+      },
+      "YBBBG": {
+        "hasty": {
+          "GGGGG": {
+            "hasty": 1
+          },
+          "BGGGG": {
+            "tasty": 1
+          }
+        }
+      },
+      "BYBBG": {
+        "patty": 1
+      },
+      "BBBBB": {
+        "waltz": 1
+      },
+      "YBYBB": {
+        "vista": 1
+      },
+      "BBBYG": {
+        "aunty": 1
+      },
+      "BBGBG": {
+        "amity": 1
+      },
+      "GBBBG": {
+        "salty": 1
+      },
+      "BBYBB": {
+        "cacti": 1
+      },
+      "YYBBB": {
+        "pasta": 1
+      },
+      "YYBBG": {
+        "pasty": 1
+      },
+      "BBBYB": {
+        "junta": 1
+      },
+      "BBGBB": {
+        "faith": 1
+      }
+    }
+  },
+  "BYBBB": {
+    "snool": {
+      "YBGYY": {
+        "floss": {
+          "GGGGG": {
+            "floss": 1
+          },
+          "BGGGG": {
+            "gloss": 1
+          }
+        }
+      },
+      "BBGYY": {
+        "bifid": {
+          "BBBBB": {
+            "clock": 1
+          },
+          "BBYBB": {
+            "flock": 1
+          },
+          "GBBBB": {
+            "block": 1
+          },
+          "BBBBG": {
+            "cloud": 1
+          }
+        }
+      },
+      "BGGYG": {
+        "knoll": 1
+      },
+      "GBGYY": {
+        "slosh": {
+          "GGGGG": {
+            "slosh": 1
+          },
+          "GYGYB": {
+            "scold": 1
+          }
+        }
+      },
+      "GYGYB": {
+        "shown": 1
+      },
+      "GBGYB": {
+        "smoky": {
+          "GBGBG": {
+            "showy": 1
+          },
+          "GBGYB": {
+            "shock": 1
+          },
+          "GGGYB": {
+            "smock": 1
+          },
+          "GGGGG": {
+            "smoky": 1
+          },
+          "GBGBB": {
+            "scoff": 1
+          }
+        }
+      },
+      "BBGGY": {
+        "bloom": {
+          "BGGGG": {
+            "gloom": 1
+          },
+          "BGGGB": {
+            "flood": 1
+          },
+          "GGGGG": {
+            "bloom": 1
+          },
+          "GGGGB": {
+            "blood": 1
+          }
+        }
+      },
+      "BYGYY": {
+        "bacon": {
+          "GBBYG": {
+            "blown": 1
+          },
+          "BBYYG": {
+            "clown": 1
+          },
+          "BBBYG": {
+            "flown": 1
+          },
+          "GBBYY": {
+            "blond": 1
+          }
+        }
+      },
+      "BBYGB": {
+        "widow": {
+          "GGGGG": {
+            "widow": 1
+          },
+          "BBBGB": {
+            "buxom": 1
+          },
+          "BYYGB": {
+            "idiom": 1
+          }
+        }
+      },
+      "BBGGB": {
+        "whoop": 1
+      },
+      "BBYYB": {
+        "jumbo": {
+          "BYYBY": {
+            "opium": 1
+          },
+          "GGGGG": {
+            "jumbo": 1
+          },
+          "BBBBG": {
+            "hippo": 1
+          },
+          "BGGGG": {
+            "gumbo": 1
+          }
+        }
+      },
+      "GBGYG": {
+        "spoil": {
+          "GGGGG": {
+            "spoil": 1
+          },
+          "GBGBG": {
+            "scowl": 1
+          }
+        }
+      },
+      "BGYGB": {
+        "union": {
+          "BGGGG": {
+            "onion": 1
+          },
+          "BGYGY": {
+            "inbox": 1
+          },
+          "GGGGG": {
+            "union": 1
+          }
+        }
+      },
+      "GYYGB": {
+        "scion": {
+          "GGGGG": {
+            "scion": 1
+          },
+          "GBBGY": {
+            "synod": 1
+          }
+        }
+      },
+      "YBGYB": {
+        "kiosk": 1
+      },
+      "GBGGB": {
+        "chawk": {
+          "BGBBG": {
+            "shook": 1
+          },
+          "BBBBB": {
+            "spoof": 1
+          },
+          "YBBBB": {
+            "scoop": 1
+          },
+          "BBBYB": {
+            "swoop": 1
+          },
+          "BBBBG": {
+            "spook": 1
+          }
+        }
+      },
+      "BYYYB": {
+        "dingo": {
+          "GGGGG": {
+            "dingo": 1
+          },
+          "BGGGG": {
+            "bingo": 1
+          },
+          "BYYYY": {
+            "owing": 1
+          }
+        }
+      },
+      "GYGGB": {
+        "swoon": {
+          "GGGGG": {
+            "swoon": 1
+          },
+          "GBGGG": {
+            "spoon": 1
+          }
+        }
+      },
+      "YBYYB": {
+        "disco": 1
+      },
+      "GGGGB": {
+        "snoop": 1
+      },
+      "BBGYB": {
+        "ovoid": {
+          "GGGGG": {
+            "ovoid": 1
+          },
+          "YBGBB": {
+            "chock": 1
+          }
+        }
+      },
+      "BYYYY": {
+        "lingo": 1
+      },
+      "BYGYB": {
+        "phony": 1
+      },
+      "BBYGY": {
+        "igloo": 1
+      },
+      "BBYYY": {
+        "oddly": {
+          "GGGGG": {
+            "oddly": 1
+          },
+          "YBBYB": {
+            "limbo": 1
+          }
+        }
+      },
+      "GBGGG": {
+        "spool": 1
+      },
+      "BBGYG": {
+        "ghoul": 1
+      },
+      "GBGGY": {
+        "sloop": 1
+      },
+      "BYYGY": {
+        "nylon": 1
+      },
+      "YYYGB": {
+        "bison": 1
+      },
+      "BGGYB": {
+        "known": {
+          "GGGGG": {
+            "known": 1
+          },
+          "GGGBY": {
+            "knock": 1
+          }
+        }
+      },
+      "GGGYB": {
+        "snowy": 1
+      }
+    }
+  },
+  "BBGYB": {
+    "slink": {
+      "GBBBB": {
+        "shaft": {
+          "GBGGY": {
+            "staff": 1
+          },
+          "GBGBY": {
+            "stamp": 1
+          },
+          "GGGGG": {
+            "shaft": 1
+          },
+          "GYGBY": {
+            "stash": 1
+          }
+        }
+      },
+      "GBBGB": {
+        "stand": {
+          "GGGGG": {
+            "stand": 1
+          },
+          "GYGGB": {
+            "scant": 1
+          }
+        }
+      },
+      "BBBGB": {
+        "chant": {
+          "GGGGG": {
+            "chant": 1
+          },
+          "BBGGY": {
+            "twang": 1
+          }
+        }
+      },
+      "BGBGB": {
+        "plant": 1
+      },
+      "GYBBG": {
+        "stalk": 1
+      },
+      "YGBBB": {
+        "blast": 1
+      },
+      "GBBBG": {
+        "stack": 1
+      },
+      "GBBGG": {
+        "stank": 1
+      },
+      "BBBGG": {
+        "thank": 1
+      },
+      "GBYYB": {
+        "stain": 1
+      },
+      "GYBBB": {
+        "shalt": {
+          "GGGGG": {
+            "shalt": 1
+          },
+          "GBGGY": {
+            "stall": 1
+          }
+        }
+      },
+      "BBYGB": {
+        "giant": 1
+      },
+      "GGBGB": {
+        "slant": 1
+      },
+      "BGYBB": {
+        "plait": 1
+      },
+      "BBYBB": {
+        "await": 1
+      },
+      "GBYBB": {
+        "staid": 1
+      },
+      "BBBBB": {
+        "adapt": 1
+      }
+    }
+  },
+  "YBYBY": {
+    "balms": {
+      "BGBBB": {
+        "gawcy": {
+          "BGBBB": {
+            "paper": {
+              "GGGGG": {
+                "paper": 1
+              },
+              "GGYGG": {
+                "parer": 1
+              }
+            }
+          },
+          "BGBBY": {
+            "payer": 1
+          },
+          "BGBYB": {
+            "caper": 1
+          },
+          "YGYBB": {
+            "wager": 1
+          },
+          "GGBBB": {
+            "gazer": 1
+          },
+          "YGBBB": {
+            "eager": 1
+          },
+          "BGYBB": {
+            "waver": {
+              "GGGGG": {
+                "waver": 1
+              },
+              "GGBGG": {
+                "wafer": 1
+              }
+            }
+          },
+          "GGBBY": {
+            "gayer": 1
+          }
+        }
+      },
+      "GYBBB": {
+        "break": {
+          "GGGGG": {
+            "break": 1
+          },
+          "GGGGB": {
+            "bread": 1
+          }
+        }
+      },
+      "BGBYB": {
+        "maker": {
+          "YGBGG": {
+            "gamer": 1
+          },
+          "YGBGY": {
+            "harem": 1
+          },
+          "GGGGG": {
+            "maker": 1
+          }
+        }
+      },
+      "BYBBB": {
+        "cedar": {
+          "GYBGY": {
+            "creak": 1
+          },
+          "BYGYG": {
+            "aider": 1
+          },
+          "BYBYY": {
+            "arena": 1
+          },
+          "BYBGY": {
+            "freak": {
+              "GGGGG": {
+                "freak": 1
+              },
+              "BGGGG": {
+                "wreak": 1
+              }
+            }
+          },
+          "GGGGG": {
+            "cedar": 1
+          },
+          "BYYGY": {
+            "dread": 1
+          },
+          "BYBYG": {
+            "anger": 1
+          }
+        }
+      },
+      "BYBYY": {
+        "smear": 1
+      },
+      "BYBYB": {
+        "dream": {
+          "GGGGG": {
+            "dream": 1
+          },
+          "BGGGG": {
+            "cream": 1
+          }
+        }
+      },
+      "GGBBB": {
+        "baker": 1
+      },
+      "BGBBY": {
+        "safer": {
+          "GGGGG": {
+            "safer": 1
+          },
+          "GGBGG": {
+            "saner": 1
+          }
+        }
+      },
+      "BGGBB": {
+        "paler": 1
+      },
+      "BGYBB": {
+        "layer": {
+          "GGGGG": {
+            "layer": 1
+          },
+          "GGBGG": {
+            "lager": 1
+          },
+          "YGYYY": {
+            "early": 1
+          }
+        }
+      },
+      "YYBBB": {
+        "zebra": {
+          "GGGGG": {
+            "zebra": 1
+          },
+          "BGGYY": {
+            "debar": 1
+          }
+        }
+      },
+      "BYBBY": {
+        "aheap": {
+          "YBGGB": {
+            "swear": 1
+          },
+          "YGGGB": {
+            "shear": 1
+          },
+          "YBGGY": {
+            "spear": 1
+          }
+        }
+      },
+      "BYYBB": {
+        "clear": {
+          "GGGGG": {
+            "clear": 1
+          },
+          "BYYGY": {
+            "feral": 1
+          }
+        }
+      },
+      "GGGBB": {
+        "baler": 1
+      },
+      "YYBYB": {
+        "amber": 1
+      }
+    }
+  },
+  "YBGYB": {
+    "grist": {
+      "BGBBY": {
+        "acmes": {
+          "YBBBB": {
+            "trawl": 1
+          },
+          "YYBBB": {
+            "track": 1
+          },
+          "YBYBB": {
+            "tramp": 1
+          }
+        }
+      },
+      "BYBYG": {
+        "start": {
+          "GGGGG": {
+            "start": 1
+          },
+          "GYGGG": {
+            "smart": 1
+          }
+        }
+      },
+      "BYYYY": {
+        "stair": 1
+      },
+      "BGBGY": {
+        "trash": 1
+      },
+      "BGYBY": {
+        "train": {
+          "GGGGG": {
+            "train": 1
+          },
+          "GGGGB": {
+            "trail": 1
+          }
+        }
+      },
+      "BYYBY": {
+        "tiara": 1
+      },
+      "BGYBG": {
+        "trait": 1
+      },
+      "BYBBG": {
+        "aahed": {
+          "YYBBB": {
+            "quart": 1
+          },
+          "GYBBB": {
+            "apart": 1
+          },
+          "YYYBB": {
+            "chart": 1
+          }
+        }
+      },
+      "BGBBG": {
+        "tract": {
+          "YGGBG": {
+            "draft": 1
+          },
+          "YGGYG": {
+            "craft": 1
+          },
+          "GGGGG": {
+            "tract": 1
+          }
+        }
+      },
+      "GGBBG": {
+        "grant": {
+          "GGGGG": {
+            "grant": 1
+          },
+          "GGGBG": {
+            "graft": 1
+          }
+        }
+      },
+      "BYBYY": {
+        "stark": 1
+      }
+    }
+  },
+  "BYYBG": {
+    "aband": {
+      "GYYBY": {
+        "adobe": 1
+      },
+      "GBYGB": {
+        "alone": 1
+      },
+      "YBYYB": {
+        "canoe": 1
+      },
+      "GBYBB": {
+        "awoke": 1
+      },
+      "GGYBY": {
+        "abode": 1
+      },
+      "GGYBB": {
+        "above": 1
+      },
+      "GBYYY": {
+        "anode": 1
+      }
+    }
+  },
+  "YGBBY": {
+    "mawks": {
+      "BBGBY": {
+        "sower": 1
+      },
+      "BBYBB": {
+        "wooer": 1
+      },
+      "BBBBB": {
+        "vichy": {
+          "BBBBB": {
+            "goner": {
+              "GGGGG": {
+                "goner": 1
+              },
+              "BGBGG": {
+                "boxer": 1
+              }
+            }
+          },
+          "BBBBY": {
+            "foyer": 1
+          },
+          "YBBBB": {
+            "lover": 1
+          },
+          "YBYBB": {
+            "cover": 1
+          },
+          "YBBYB": {
+            "hover": 1
+          },
+          "BBYBB": {
+            "corer": 1
+          }
+        }
+      },
+      "YBBBB": {
+        "homer": 1
+      },
+      "BBBBY": {
+        "poser": {
+          "BGGGG": {
+            "loser": 1
+          },
+          "GGGGG": {
+            "poser": 1
+          },
+          "BGYGG": {
+            "sober": 1
+          }
+        }
+      },
+      "BBGBB": {
+        "acold": {
+          "BBYBB": {
+            "power": 1
+          },
+          "BBYYB": {
+            "lower": 1
+          },
+          "BYYBB": {
+            "cower": 1
+          }
+        }
+      },
+      "BBBYB": {
+        "poker": {
+          "GGGGG": {
+            "poker": 1
+          },
+          "BGGGG": {
+            "joker": 1
+          }
+        }
+      },
+      "GBBBB": {
+        "mover": 1
+      },
+      "GBGBB": {
+        "mower": 1
+      }
+    }
+  },
+  "GBYBY": {
+    "mylar": {
+      "BYBGY": {
+        "repay": 1
+      },
+      "BBBGY": {
+        "recap": {
+          "GGGGG": {
+            "recap": 1
+          },
+          "GGBGB": {
+            "rehab": 1
+          }
+        }
+      },
+      "BBBGG": {
+        "rebar": 1
+      },
+      "BBGGY": {
+        "relax": 1
+      },
+      "BBYGY": {
+        "regal": {
+          "GGGGG": {
+            "regal": 1
+          },
+          "GGBGG": {
+            "renal": 1
+          }
+        }
+      },
+      "BYGGY": {
+        "relay": 1
+      },
+      "YBBYY": {
+        "ramen": 1
+      },
+      "BBBYG": {
+        "racer": {
+          "GGGGG": {
+            "racer": 1
+          },
+          "GGBGG": {
+            "rarer": 1
+          }
+        }
+      },
+      "BBBYY": {
+        "raven": 1
+      }
+    }
+  },
+  "YBGGG": {
+    "abaci": {
+      "YBGYB": {
+        "crate": 1
+      },
+      "YBGBB": {
+        "grate": 1
+      },
+      "YBGBY": {
+        "irate": 1
+      }
+    }
+  },
+  "BBBBG": {
+    "sling": {
+      "GBGBB": {
+        "spike": {
+          "GGGGG": {
+            "spike": 1
+          },
+          "GBGBG": {
+            "seize": 1
+          },
+          "GGGBG": {
+            "spice": 1
+          }
+        }
+      },
+      "BGBBB": {
+        "flume": {
+          "GGGGG": {
+            "flume": 1
+          },
+          "BGGGG": {
+            "plume": 1
+          },
+          "BGGBG": {
+            "elude": 1
+          },
+          "GGGBG": {
+            "fluke": 1
+          }
+        }
+      },
+      "GBYBY": {
+        "siege": 1
+      },
+      "BBYYB": {
+        "wince": {
+          "GGGGG": {
+            "wince": 1
+          },
+          "BGGGG": {
+            "mince": 1
+          },
+          "BGYGG": {
+            "niece": 1
+          },
+          "BGYYG": {
+            "niche": 1
+          }
+        }
+      },
+      "BYBBB": {
+        "abbed": {
+          "BBBYY": {
+            "delve": 1
+          },
+          "BBBGB": {
+            "melee": 1
+          },
+          "BBBYB": {
+            "cycle": 1
+          },
+          "BYYYB": {
+            "belle": 1
+          }
+        }
+      },
+      "BBYYY": {
+        "hinge": {
+          "GGGGG": {
+            "hinge": 1
+          },
+          "BYGYG": {
+            "genie": 1
+          },
+          "BGGGG": {
+            "binge": 1
+          }
+        }
+      },
+      "BBBBY": {
+        "wojus": {
+          "GBBBB": {
+            "wedge": 1
+          },
+          "BBBYB": {
+            "budge": {
+              "GGGGG": {
+                "budge": 1
+              },
+              "BGGGG": {
+                "fudge": 1
+              }
+            }
+          },
+          "BBBGB": {
+            "fugue": 1
+          },
+          "BBBBB": {
+            "hedge": 1
+          },
+          "BBYYB": {
+            "judge": 1
+          }
+        }
+      },
+      "BBYBY": {
+        "midge": 1
+      },
+      "BYYBY": {
+        "liege": {
+          "GGGGG": {
+            "liege": 1
+          },
+          "YGYGG": {
+            "bilge": 1
+          }
+        }
+      },
+      "BBYBB": {
+        "acmic": {
+          "BBBYB": {
+            "pique": 1
+          },
+          "BBBGB": {
+            "pixie": 1
+          },
+          "BBYYB": {
+            "imbue": 1
+          },
+          "BYBYY": {
+            "piece": 1
+          }
+        }
+      },
+      "BBBYB": {
+        "fecht": {
+          "BYBBB": {
+            "undue": 1
+          },
+          "BYYBB": {
+            "dunce": 1
+          },
+          "BGBBB": {
+            "venue": 1
+          },
+          "BGYBB": {
+            "pence": 1
+          },
+          "GGYBB": {
+            "fence": 1
+          },
+          "BGYYB": {
+            "hence": 1
+          }
+        }
+      },
+      "GBGGB": {
+        "aheap": {
+          "BBYBB": {
+            "swine": 1
+          },
+          "BBYBY": {
+            "spine": 1
+          },
+          "BGYBB": {
+            "shine": 1
+          }
+        }
+      },
+      "BYGBY": {
+        "guile": 1
+      },
+      "GBYYY": {
+        "singe": 1
+      },
+      "GYGBB": {
+        "smile": 1
+      },
+      "GGGBB": {
+        "ached": {
+          "BBBYY": {
+            "slide": 1
+          },
+          "BBBYB": {
+            "slime": 1
+          },
+          "BYBYB": {
+            "slice": 1
+          }
+        }
+      },
+      "BYGBB": {
+        "exile": {
+          "GGGGG": {
+            "exile": 1
+          },
+          "YBGGG": {
+            "while": 1
+          }
+        }
+      },
+      "BBBBB": {
+        "femme": {
+          "BYBBG": {
+            "queue": 1
+          },
+          "BYYYG": {
+            "emcee": 1
+          },
+          "GGGGG": {
+            "femme": 1
+          },
+          "BGBBG": {
+            "deuce": 1
+          }
+        }
+      },
+      "GBYYB": {
+        "since": 1
+      },
+      "YBBYB": {
+        "ensue": {
+          "GGGGG": {
+            "ensue": 1
+          },
+          "YYYBG": {
+            "dense": 1
+          }
+        }
+      },
+      "GBYBB": {
+        "sieve": 1
+      },
+      "BBBYY": {
+        "nudge": 1
+      },
+      "BBGYB": {
+        "knife": 1
+      },
+      "GBGYB": {
+        "snide": {
+          "GGGGG": {
+            "snide": 1
+          },
+          "GGGBG": {
+            "snipe": 1
+          }
+        }
+      },
+      "BBBGB": {
+        "penne": 1
+      },
+      "BGGBY": {
+        "glide": 1
+      },
+      "BYBYY": {
+        "lunge": 1
+      },
+      "BYYBB": {
+        "bible": {
+          "GGGGG": {
+            "bible": 1
+          },
+          "GYYYG": {
+            "belie": 1
+          }
+        }
+      },
+      "BYBYB": {
+        "uncle": 1
+      },
+      "BGGBB": {
+        "elide": 1
+      },
+      "GBBBY": {
+        "segue": 1
+      },
+      "YBYBB": {
+        "issue": 1
+      },
+      "BYBBY": {
+        "ledge": {
+          "YYBYG": {
+            "bugle": 1
+          },
+          "YYBGG": {
+            "bulge": 1
+          },
+          "GGGGG": {
+            "ledge": 1
+          }
+        }
+      },
+      "BBGBY": {
+        "guide": 1
+      },
+      "GBBYB": {
+        "sense": 1
+      },
+      "BBGBB": {
+        "chime": {
+          "GGGBG": {
+            "chide": 1
+          },
+          "YBGBG": {
+            "juice": 1
+          },
+          "GGGGG": {
+            "chime": 1
+          }
+        }
+      },
+      "YBBBY": {
+        "geese": 1
+      },
+      "YBGBY": {
+        "guise": 1
+      },
+      "GBBGB": {
+        "scene": 1
+      },
+      "BBGGB": {
+        "whine": 1
+      },
+      "YYBBB": {
+        "pulse": 1
+      }
+    }
+  },
+  "YGBGB": {
+    "downy": {
+      "BGBBB": {
+        "forth": 1
+      },
+      "BGYBB": {
+        "worth": 1
+      },
+      "BGBBG": {
+        "forty": 1
+      },
+      "BGBYB": {
+        "north": 1
+      }
+    }
+  },
+  "YYBBB": {
+    "grind": {
+      "BYYBB": {
+        "visor": {
+          "YYBYY": {
+            "ivory": 1
+          },
+          "BYBYG": {
+            "choir": 1
+          },
+          "BGBYY": {
+            "micro": 1
+          },
+          "BYBYY": {
+            "curio": 1
+          },
+          "GGGGG": {
+            "visor": 1
+          }
+        }
+      },
+      "BYBBG": {
+        "abacs": {
+          "BBBBB": {
+            "fjord": 1
+          },
+          "BBBYB": {
+            "chord": 1
+          },
+          "BBBBY": {
+            "sword": 1
+          }
+        }
+      },
+      "GGBBB": {
+        "adsum": {
+          "BBBBB": {
+            "growl": 1
+          },
+          "BBBGB": {
+            "group": 1
+          },
+          "BBBBG": {
+            "groom": 1
+          },
+          "BBYBB": {
+            "gross": 1
+          }
+        }
+      },
+      "GGYYB": {
+        "groin": 1
+      },
+      "BGBBB": {
+        "pluck": {
+          "GBBBB": {
+            "proxy": {
+              "GGGGG": {
+                "proxy": 1
+              },
+              "GGGBB": {
+                "proof": 1
+              }
+            }
+          },
+          "BBBGG": {
+            "crock": {
+              "GGGGG": {
+                "crock": 1
+              },
+              "YGGGG": {
+                "frock": 1
+              }
+            }
+          },
+          "YBYYB": {
+            "croup": 1
+          },
+          "BBBYG": {
+            "crook": 1
+          },
+          "BBBYB": {
+            "cross": 1
+          },
+          "GYBBB": {
+            "prowl": 1
+          },
+          "BBBBB": {
+            "broom": 1
+          },
+          "BBBBG": {
+            "brook": 1
+          }
+        }
+      },
+      "BYBBB": {
+        "afros": {
+          "BBYGB": {
+            "humor": 1
+          },
+          "BBYYY": {
+            "scour": 1
+          },
+          "BYYGB": {
+            "floor": 1
+          },
+          "BYGGB": {
+            "furor": 1
+          },
+          "BYYYB": {
+            "flour": 1
+          },
+          "BBGGB": {
+            "juror": 1
+          },
+          "BBYYB": {
+            "occur": 1
+          }
+        }
+      },
+      "BGGBB": {
+        "primo": {
+          "GGGGG": {
+            "primo": 1
+          },
+          "GGGBY": {
+            "prior": 1
+          }
+        }
+      },
+      "BGBBY": {
+        "drool": {
+          "GGGYG": {
+            "droll": 1
+          },
+          "GGGYB": {
+            "dross": 1
+          },
+          "GGGGB": {
+            "droop": 1
+          },
+          "GGGGG": {
+            "drool": 1
+          }
+        }
+      },
+      "BYBBY": {
+        "hydro": 1
+      },
+      "BGYGB": {
+        "irony": 1
+      },
+      "GYBBB": {
+        "glory": 1
+      },
+      "BYBYB": {
+        "achar": {
+          "BGBBY": {
+            "scorn": 1
+          },
+          "BBBBY": {
+            "sworn": 1
+          },
+          "BBYBY": {
+            "shorn": 1
+          }
+        }
+      },
+      "YYYBB": {
+        "vigor": 1
+      },
+      "BGBYB": {
+        "abaca": {
+          "BBBBB": {
+            "frown": 1
+          },
+          "BBBYB": {
+            "crown": 1
+          },
+          "BYBBB": {
+            "brown": 1
+          }
+        }
+      },
+      "BGBBG": {
+        "abaca": {
+          "BBBYB": {
+            "crowd": 1
+          },
+          "BYBBB": {
+            "brood": 1
+          },
+          "BBBBB": {
+            "proud": 1
+          }
+        }
+      },
+      "BYYYB": {
+        "minor": 1
+      },
+      "YGBGB": {
+        "prong": {
+          "GGGGG": {
+            "prong": 1
+          },
+          "BGGGG": {
+            "wrong": 1
+          }
+        }
+      },
+      "BGBGG": {
+        "frond": 1
+      },
+      "BGYBB": {
+        "broil": 1
+      },
+      "GGBYB": {
+        "grown": 1
+      },
+      "BGBYY": {
+        "drown": 1
+      },
+      "BGBGB": {
+        "crony": 1
+      }
+    }
+  },
+  "YBGBY": {
+    "bandy": {
+      "BYYBY": {
+        "yearn": 1
+      },
+      "BYBBG": {
+        "weary": 1
+      },
+      "BYBBB": {
+        "pearl": 1
+      },
+      "GYBYB": {
+        "beard": 1
+      },
+      "BYYBB": {
+        "learn": 1
+      },
+      "BYBYB": {
+        "heard": 1
+      }
+    }
+  },
+  "BBYBY": {
+    "genal": {
+      "BYGYG": {
+        "panel": 1
+      },
+      "BYBYG": {
+        "bachs": {
+          "BGBBB": {
+            "lapel": 1
+          },
+          "YGBBB": {
+            "label": 1
+          },
+          "BGBYB": {
+            "hazel": 1
+          },
+          "BGBBY": {
+            "easel": 1
+          },
+          "BGYBB": {
+            "camel": 1
+          }
+        }
+      },
+      "BYBGB": {
+        "speak": {
+          "YBYGB": {
+            "essay": 1
+          },
+          "BBGGB": {
+            "ahead": 1
+          },
+          "BYGGB": {
+            "cheap": 1
+          },
+          "GGGGG": {
+            "speak": 1
+          }
+        }
+      },
+      "BGBGB": {
+        "kebab": {
+          "GGGGG": {
+            "kebab": 1
+          },
+          "BGBGB": {
+            "decay": 1
+          }
+        }
+      },
+      "BYYYB": {
+        "hyena": {
+          "BBGYG": {
+            "enema": 1
+          },
+          "GBYYY": {
+            "haven": 1
+          },
+          "YBYYY": {
+            "ashen": 1
+          },
+          "BBGGY": {
+            "amend": 1
+          },
+          "BBYYY": {
+            "waxen": 1
+          },
+          "GGGGG": {
+            "hyena": 1
+          }
+        }
+      },
+      "BYBYB": {
+        "abbey": {
+          "GGGGG": {
+            "abbey": 1
+          },
+          "GBBGB": {
+            "askew": 1
+          }
+        }
+      },
+      "BGBYY": {
+        "fella": 1
+      },
+      "BYYYY": {
+        "alien": {
+          "GGGGG": {
+            "alien": 1
+          },
+          "YYBGG": {
+            "laden": 1
+          }
+        }
+      },
+      "GYYGY": {
+        "glean": 1
+      },
+      "BYBGG": {
+        "equal": {
+          "GGGGG": {
+            "equal": 1
+          },
+          "YBBGG": {
+            "ideal": 1
+          }
+        }
+      },
+      "BYYGB": {
+        "sneak": {
+          "GGGGG": {
+            "sneak": 1
+          },
+          "BGGGY": {
+            "knead": 1
+          }
+        }
+      },
+      "BGYGB": {
+        "sedan": {
+          "GGGGG": {
+            "sedan": 1
+          },
+          "BGBGG": {
+            "pecan": 1
+          }
+        }
+      },
+      "BYYGY": {
+        "clean": 1
+      },
+      "BYBYY": {
+        "alley": {
+          "GGGGG": {
+            "alley": 1
+          },
+          "GYGGB": {
+            "abled": 1
+          }
+        }
+      },
+      "BGBGY": {
+        "delay": 1
+      },
+      "GYBYG": {
+        "gavel": 1
+      },
+      "BGBYB": {
+        "sepia": {
+          "GGGGG": {
+            "sepia": 1
+          },
+          "BGBGG": {
+            "media": 1
+          },
+          "BGBBG": {
+            "mecca": 1
+          }
+        }
+      },
+      "BGBGG": {
+        "pedal": {
+          "BGBGG": {
+            "fecal": 1
+          },
+          "BGGGG": {
+            "medal": 1
+          },
+          "BGYGG": {
+            "decal": 1
+          },
+          "GGGGG": {
+            "pedal": 1
+          }
+        }
+      },
+      "BGGGG": {
+        "penal": 1
+      },
+      "BYBGY": {
+        "bleak": {
+          "GGGGG": {
+            "bleak": 1
+          },
+          "BGGGB": {
+            "plead": 1
+          }
+        }
+      },
+      "BYYYG": {
+        "navel": 1
+      },
+      "BYGYB": {
+        "annex": {
+          "GGGGG": {
+            "annex": 1
+          },
+          "GYGGB": {
+            "apnea": 1
+          }
+        }
+      },
+      "YYBYG": {
+        "bagel": 1
+      },
+      "YGBGG": {
+        "legal": 1
+      },
+      "YGYGB": {
+        "began": {
+          "GGGGG": {
+            "began": 1
+          },
+          "BGGGG": {
+            "vegan": 1
+          }
+        }
+      },
+      "YYYYG": {
+        "angel": 1
+      },
+      "GYBGY": {
+        "gleam": 1
+      },
+      "YYBYB": {
+        "cagey": 1
+      }
+    }
+  },
+  "BYYBB": {
+    "linos": {
+      "YBBYB": {
+        "offal": {
+          "GGGGG": {
+            "offal": 1
+          },
+          "YBBYY": {
+            "aloud": 1
+          },
+          "YGYYG": {
+            "afoul": 1
+          },
+          "YBBGY": {
+            "cloak": 1
+          }
+        }
+      },
+      "YBBGB": {
+        "alloy": {
+          "GGGGB": {
+            "allow": 1
+          },
+          "GYGGB": {
+            "aglow": 1
+          },
+          "GGYGB": {
+            "aloof": 1
+          },
+          "GGGGG": {
+            "alloy": 1
+          }
+        }
+      },
+      "BBBGB": {
+        "bayou": {
+          "GGGGG": {
+            "bayou": 1
+          },
+          "BGBGB": {
+            "havoc": 1
+          }
+        }
+      },
+      "BBBYB": {
+        "mambo": {
+          "BGBBG": {
+            "cacao": 1
+          },
+          "GGYBG": {
+            "macho": 1
+          },
+          "GGGGG": {
+            "mambo": 1
+          }
+        }
+      },
+      "BBYGY": {
+        "mason": 1
+      },
+      "YBBYY": {
+        "shoal": {
+          "GGGGG": {
+            "shoal": 1
+          },
+          "GBYYY": {
+            "salvo": 1
+          }
+        }
+      },
+      "BBYGB": {
+        "wagon": {
+          "GGGGG": {
+            "wagon": 1
+          },
+          "BGBGG": {
+            "bacon": 1
+          }
+        }
+      },
+      "YBYGY": {
+        "salon": 1
+      },
+      "BBYYB": {
+        "among": {
+          "GGGGG": {
+            "among": 1
+          },
+          "GBGGY": {
+            "agony": 1
+          }
+        }
+      },
+      "YGBYB": {
+        "viola": 1
+      },
+      "BBGGB": {
+        "canon": {
+          "GGGGG": {
+            "canon": 1
+          },
+          "BYGGY": {
+            "annoy": 1
+          }
+        }
+      },
+      "BBBGY": {
+        "savoy": 1
+      },
+      "YBYYB": {
+        "along": 1
+      },
+      "GBBYY": {
+        "lasso": 1
+      },
+      "BBGYB": {
+        "mango": {
+          "GGGGG": {
+            "mango": 1
+          },
+          "BGGBG": {
+            "banjo": 1
+          }
+        }
+      },
+      "BYBYB": {
+        "audio": {
+          "GGGGG": {
+            "audio": 1
+          },
+          "GBYGY": {
+            "avoid": 1
+          }
+        }
+      },
+      "BYBGB": {
+        "axiom": 1
+      },
+      "BYYGB": {
+        "axion": 1
+      }
+    }
+  },
+  "YBYBG": {
+    "vagus": {
+      "BYYBB": {
+        "agree": 1
+      },
+      "BYGGB": {
+        "argue": 1
+      },
+      "BGBBB": {
+        "farce": 1
+      },
+      "BYBBY": {
+        "arise": 1
+      },
+      "YGBBB": {
+        "carve": 1
+      },
+      "BGYBB": {
+        "barge": {
+          "GGGGG": {
+            "barge": 1
+          },
+          "BGGGG": {
+            "large": 1
+          }
+        }
+      },
+      "BYBYB": {
+        "azure": 1
+      },
+      "BYBBB": {
+        "afire": 1
+      },
+      "BGBBY": {
+        "parse": 1
+      }
+    }
+  },
+  "YYBBY": {
+    "urned": {
+      "BGBYB": {
+        "error": 1
+      },
+      "BYYYB": {
+        "heron": 1
+      },
+      "BYBGB": {
+        "offer": 1
+      },
+      "BGBYY": {
+        "credo": 1
+      },
+      "BYGGB": {
+        "owner": 1
+      },
+      "BYBYY": {
+        "decor": 1
+      },
+      "BGBGY": {
+        "order": 1
+      },
+      "BYBGY": {
+        "older": {
+          "GGGGG": {
+            "older": 1
+          },
+          "GBGGG": {
+            "odder": 1
+          }
+        }
+      },
+      "BYBYB": {
+        "verso": 1
+      }
+    }
+  },
+  "YBBBB": {
+    "sculk": {
+      "GBBYB": {
+        "swirl": 1
+      },
+      "GBYBB": {
+        "shrug": {
+          "GGGGB": {
+            "shrub": 1
+          },
+          "GGGGG": {
+            "shrug": 1
+          },
+          "GBGGB": {
+            "syrup": 1
+          }
+        }
+      },
+      "BBBBB": {
+        "wring": {
+          "BGGGG": {
+            "bring": 1
+          },
+          "BGGGY": {
+            "grind": 1
+          },
+          "BGGBB": {
+            "privy": 1
+          },
+          "BGGGB": {
+            "briny": 1
+          },
+          "BYBBB": {
+            "myrrh": 1
+          },
+          "BGGBY": {
+            "grimy": 1
+          },
+          "GGGGG": {
+            "wring": 1
+          }
+        }
+      },
+      "BBBBG": {
+        "drink": {
+          "GGGGG": {
+            "drink": 1
+          },
+          "BGGGG": {
+            "brink": 1
+          }
+        }
+      },
+      "BYBBG": {
+        "abamp": {
+          "BBBBY": {
+            "prick": 1
+          },
+          "BBBBB": {
+            "crick": 1
+          },
+          "BYBBB": {
+            "brick": 1
+          }
+        }
+      },
+      "BYBBB": {
+        "crimp": {
+          "GGGGG": {
+            "crimp": 1
+          },
+          "YYYBB": {
+            "birch": 1
+          },
+          "GYGBG": {
+            "chirp": 1
+          }
+        }
+      },
+      "BBGBB": {
+        "wrung": {
+          "GGGGG": {
+            "wrung": 1
+          },
+          "BGGBY": {
+            "gruff": 1
+          },
+          "BGGBB": {
+            "druid": 1
+          }
+        }
+      },
+      "YBBBG": {
+        "brisk": {
+          "GGGGG": {
+            "brisk": 1
+          },
+          "BGGGG": {
+            "frisk": 1
+          }
+        }
+      },
+      "YBGBB": {
+        "usurp": {
+          "GGGGG": {
+            "usurp": 1
+          },
+          "YYGYB": {
+            "brush": 1
+          }
+        }
+      },
+      "BBYBG": {
+        "quirk": 1
+      },
+      "BYYBB": {
+        "curvy": {
+          "YYYBB": {
+            "incur": 1
+          },
+          "GGGGG": {
+            "curvy": 1
+          },
+          "GGGBG": {
+            "curry": 1
+          }
+        }
+      },
+      "BYYYB": {
+        "lurch": 1
+      },
+      "BBBGB": {
+        "bifid": {
+          "BBBBB": {
+            "wryly": 1
+          },
+          "BBBBY": {
+            "dryly": 1
+          },
+          "BYBYB": {
+            "grill": 1
+          },
+          "BYBYY": {
+            "drill": 1
+          },
+          "BYYYB": {
+            "frill": 1
+          },
+          "BGBYB": {
+            "girly": 1
+          }
+        }
+      },
+      "BBYBB": {
+        "furry": {
+          "GGGGG": {
+            "furry": 1
+          },
+          "BGGGG": {
+            "hurry": 1
+          }
+        }
+      },
+      "BYGBB": {
+        "crump": {
+          "GGGGG": {
+            "crump": 1
+          },
+          "GGGGB": {
+            "crumb": 1
+          },
+          "GYGBB": {
+            "churn": 1
+          }
+        }
+      },
+      "BBYBY": {
+        "murky": 1
+      },
+      "GGYBB": {
+        "scrub": {
+          "GGGGG": {
+            "scrub": 1
+          },
+          "GGGGB": {
+            "scrum": 1
+          }
+        }
+      },
+      "BBGYB": {
+        "blurb": 1
+      },
+      "BBGBG": {
+        "drunk": 1
+      },
+      "BBYYB": {
+        "lurid": 1
+      },
+      "GBBBG": {
+        "shirk": {
+          "GGGGG": {
+            "shirk": 1
+          },
+          "GBGGG": {
+            "smirk": 1
+          }
+        }
+      },
+      "GBGYB": {
+        "slurp": 1
+      },
+      "GBGBB": {
+        "spurn": 1
+      },
+      "BYYGB": {
+        "curly": 1
+      },
+      "BBYGB": {
+        "burly": 1
+      },
+      "BYBYB": {
+        "lyric": 1
+      },
+      "YBBBB": {
+        "prism": 1
+      },
+      "YYBBB": {
+        "crisp": 1
+      },
+      "GBYGB": {
+        "surly": 1
+      },
+      "BBBGY": {
+        "krill": 1
+      },
+      "GBBBB": {
+        "sprig": 1
+      },
+      "YYGBB": {
+        "crush": 1
+      },
+      "YBYBB": {
+        "virus": 1
+      },
+      "BBBYB": {
+        "whirl": 1
+      }
+    }
+  },
+  "BBYGY": {
+    "delta": {
+      "GGGGG": {
+        "delta": 1
+      },
+      "BYBGG": {
+        "theta": 1
+      }
+    }
+  },
+  "BGBYY": {
+    "milch": {
+      "YBBBB": {
+        "totem": 1
+      },
+      "YBBYB": {
+        "comet": 1
+      },
+      "BBBYB": {
+        "covet": 1
+      },
+      "BBYBB": {
+        "towel": 1
+      },
+      "BBYBY": {
+        "hotel": 1
+      },
+      "BBBBB": {
+        "token": 1
+      },
+      "GBYBB": {
+        "motel": 1
+      }
+    }
+  },
+  "YYBYB": {
+    "snout": {
+      "BYGBG": {
+        "front": 1
+      },
+      "BBGBY": {
+        "troll": {
+          "GGGGG": {
+            "troll": 1
+          },
+          "GGGBB": {
+            "troop": 1
+          }
+        }
+      },
+      "BYGBY": {
+        "thorn": 1
+      },
+      "GBGBY": {
+        "abysm": {
+          "BBYYB": {
+            "story": 1
+          },
+          "BBBYB": {
+            "stork": 1
+          },
+          "BBBYG": {
+            "storm": 1
+          }
+        }
+      },
+      "GBGBG": {
+        "sport": {
+          "GGGGG": {
+            "sport": 1
+          },
+          "GBGGG": {
+            "short": 1
+          }
+        }
+      },
+      "BBGGG": {
+        "trout": {
+          "GGGGG": {
+            "trout": 1
+          },
+          "YGGGG": {
+            "grout": 1
+          }
+        }
+      },
+      "BBYYY": {
+        "tutor": {
+          "GGGGG": {
+            "tutor": 1
+          },
+          "GGYGG": {
+            "tumor": 1
+          },
+          "GGYYY": {
+            "turbo": 1
+          }
+        }
+      },
+      "GGGBG": {
+        "snort": 1
+      },
+      "BBYBG": {
+        "orbit": 1
+      },
+      "BBYBY": {
+        "throw": {
+          "GGGGG": {
+            "throw": 1
+          },
+          "GGGGB": {
+            "throb": 1
+          }
+        }
+      },
+      "YBGBG": {
+        "frost": 1
+      },
+      "BBGBG": {
+        "droit": 1
+      },
+      "BGYBY": {
+        "intro": 1
+      }
+    }
+  },
+  "BYBBG": {
+    "snick": {
+      "BBYBB": {
+        "biome": {
+          "GGGGG": {
+            "biome": 1
+          },
+          "BGGBG": {
+            "diode": 1
+          }
+        }
+      },
+      "BBBBY": {
+        "bloke": {
+          "GGGGG": {
+            "bloke": 1
+          },
+          "BBGGG": {
+            "evoke": 1
+          }
+        }
+      },
+      "BBBYY": {
+        "choke": 1
+      },
+      "BBGBB": {
+        "oxide": {
+          "GGGGG": {
+            "oxide": 1
+          },
+          "GBGBG": {
+            "olive": 1
+          }
+        }
+      },
+      "BBBBB": {
+        "glove": {
+          "BGGBG": {
+            "elope": 1
+          },
+          "GGGGG": {
+            "glove": 1
+          },
+          "GGGBG": {
+            "globe": 1
+          },
+          "BYGBG": {
+            "whole": 1
+          }
+        }
+      },
+      "GBBBY": {
+        "smoke": {
+          "GGGGG": {
+            "smoke": 1
+          },
+          "GBGGG": {
+            "spoke": 1
+          }
+        }
+      },
+      "YBBYB": {
+        "chose": {
+          "GGGGG": {
+            "chose": 1
+          },
+          "GBGGG": {
+            "close": 1
+          }
+        }
+      },
+      "BGBBB": {
+        "gnome": 1
+      },
+      "BYBBB": {
+        "ozone": {
+          "GGGGG": {
+            "ozone": 1
+          },
+          "YBGGG": {
+            "phone": 1
+          }
+        }
+      },
+      "GBBYB": {
+        "scope": 1
+      },
+      "BBBYB": {
+        "clove": 1
+      },
+      "GBBBB": {
+        "shove": {
+          "GGGGG": {
+            "shove": 1
+          },
+          "GBGBG": {
+            "slope": 1
+          }
+        }
+      },
+      "GYBYB": {
+        "scone": 1
+      },
+      "YBBBB": {
+        "obese": {
+          "GGGGG": {
+            "obese": 1
+          },
+          "YBYGG": {
+            "whose": 1
+          }
+        }
+      },
+      "GYBBB": {
+        "shone": 1
+      },
+      "BYGBB": {
+        "opine": {
+          "GGGGG": {
+            "opine": 1
+          },
+          "GBGGG": {
+            "ovine": 1
+          }
+        }
+      },
+      "BYBGB": {
+        "ounce": 1
+      },
+      "BYBYB": {
+        "clone": 1
+      }
+    }
+  },
+  "YBBYY": {
+    "suint": {
+      "BBBBG": {
+        "erect": {
+          "YGGBG": {
+            "greet": 1
+          },
+          "YGGYG": {
+            "crept": 1
+          },
+          "GYYBG": {
+            "egret": 1
+          },
+          "GGGGG": {
+            "erect": 1
+          },
+          "YYYBG": {
+            "beret": 1
+          },
+          "GYGBG": {
+            "exert": 1
+          }
+        }
+      },
+      "BBYBY": {
+        "timer": {
+          "GGBGG": {
+            "tiger": 1
+          },
+          "GYBYG": {
+            "their": 1
+          },
+          "GGGGG": {
+            "timer": 1
+          }
+        }
+      },
+      "BBYYG": {
+        "inert": 1
+      },
+      "BBYBG": {
+        "merit": 1
+      },
+      "BBYYY": {
+        "inter": 1
+      },
+      "BBBBY": {
+        "meter": {
+          "BYYGY": {
+            "threw": 1
+          },
+          "BGGGG": {
+            "deter": 1
+          },
+          "BYYGG": {
+            "ether": 1
+          },
+          "GGGGG": {
+            "meter": 1
+          }
+        }
+      },
+      "YBBBG": {
+        "wrest": {
+          "GGGGG": {
+            "wrest": 1
+          },
+          "BGGGG": {
+            "crest": 1
+          }
+        }
+      },
+      "BYBBG": {
+        "erupt": 1
+      },
+      "BBBYY": {
+        "enter": {
+          "GGGGG": {
+            "enter": 1
+          },
+          "GGGYY": {
+            "entry": 1
+          }
+        }
+      },
+      "BGBBY": {
+        "tuber": 1
+      },
+      "YBBBY": {
+        "ester": 1
+      },
+      "GBBYY": {
+        "stern": 1
+      },
+      "BYBBY": {
+        "utter": {
+          "GGGGG": {
+            "utter": 1
+          },
+          "YYYGG": {
+            "truer": 1
+          }
+        }
+      },
+      "BBGBY": {
+        "tried": 1
+      },
+      "BBBGY": {
+        "trend": 1
+      },
+      "GBBBY": {
+        "steer": 1
+      }
+    }
+  },
+  "BBBGB": {
+    "hinds": {
+      "BBBBY": {
+        "agama": {
+          "BBBBB": {
+            "lusty": 1
+          },
+          "BBBYB": {
+            "musty": 1
+          },
+          "BYBBB": {
+            "gusty": 1
+          }
+        }
+      },
+      "BGGBB": {
+        "minty": 1
+      },
+      "BGBBB": {
+        "batik": {
+          "BBGYY": {
+            "kitty": 1
+          },
+          "GBGYB": {
+            "bitty": 1
+          },
+          "BBGYB": {
+            "witty": 1
+          },
+          "BBYYB": {
+            "fifty": 1
+          }
+        }
+      },
+      "BBBBB": {
+        "putty": 1
+      },
+      "YGGBB": {
+        "ninth": 1
+      },
+      "BGBYB": {
+        "ditty": 1
+      },
+      "BYBBB": {
+        "blitz": 1
+      },
+      "BBBYY": {
+        "dusty": 1
+      },
+      "YGBBY": {
+        "sixth": 1
+      },
+      "BYYBB": {
+        "unity": 1
+      },
+      "BGBBY": {
+        "sixty": 1
+      },
+      "BBYBB": {
+        "nutty": 1
+      },
+      "YGBYB": {
+        "width": 1
+      },
+      "YGBBB": {
+        "filth": {
+          "GGGGG": {
+            "filth": 1
+          },
+          "GGBGG": {
+            "fifth": 1
+          }
+        }
+      },
+      "YYBBY": {
+        "smith": 1
+      }
+    }
+  },
+  "GGBBB": {
+    "acidy": {
+      "BBBYB": {
+        "round": 1
+      },
+      "BBYBB": {
+        "robin": 1
+      },
+      "BBBBG": {
+        "roomy": 1
+      },
+      "BYBBG": {
+        "rocky": 1
+      },
+      "BBBGG": {
+        "rowdy": 1
+      },
+      "BBBBB": {
+        "rough": 1
+      }
+    }
+  },
+  "BBYYB": {
+    "clint": {
+      "BBYBG": {
+        "audit": {
+          "GGGGG": {
+            "audit": 1
+          },
+          "GBYGG": {
+            "admit": 1
+          },
+          "YBBGG": {
+            "habit": 1
+          }
+        }
+      },
+      "YBBBY": {
+        "womby": {
+          "BBBBB": {
+            "hatch": {
+              "GGGGG": {
+                "hatch": 1
+              },
+              "YGGGG": {
+                "patch": 1
+              }
+            }
+          },
+          "GBBBB": {
+            "watch": 1
+          },
+          "BBBBG": {
+            "tacky": 1
+          },
+          "BBBYB": {
+            "batch": 1
+          },
+          "BBYBB": {
+            "match": 1
+          }
+        }
+      },
+      "BBBGG": {
+        "vughy": {
+          "BYBBB": {
+            "djinn": {
+              "BYBGY": {
+                "jaunt": 1
+              },
+              "BBBGY": {
+                "taunt": 1
+              },
+              "GBBGY": {
+                "daunt": 1
+              }
+            }
+          },
+          "BYYBB": {
+            "gaunt": 1
+          },
+          "BYBYB": {
+            "haunt": 1
+          },
+          "GYBBB": {
+            "vaunt": 1
+          }
+        }
+      },
+      "BYYBY": {
+        "vital": {
+          "GGGGG": {
+            "vital": 1
+          },
+          "BGYGG": {
+            "tidal": 1
+          }
+        }
+      },
+      "BBBYY": {
+        "tangy": 1
+      },
+      "YBYBG": {
+        "tacit": 1
+      },
+      "BYBYY": {
+        "natal": 1
+      },
+      "BBYBY": {
+        "tibia": 1
+      },
+      "BBGGG": {
+        "flaps": {
+          "BBYBY": {
+            "saint": 1
+          },
+          "GBYBB": {
+            "faint": 1
+          },
+          "BBYYB": {
+            "paint": 1
+          },
+          "BBYBB": {
+            "taint": 1
+          }
+        }
+      },
+      "GBBBY": {
+        "catch": 1
+      },
+      "BYBBG": {
+        "vault": {
+          "BGGGG": {
+            "fault": 1
+          },
+          "GGGGG": {
+            "vault": 1
+          },
+          "BYBYG": {
+            "splat": 1
+          },
+          "BYGGG": {
+            "adult": 1
+          }
+        }
+      },
+      "BYBBY": {
+        "tubal": {
+          "YBBYY": {
+            "aptly": 1
+          },
+          "GGGGG": {
+            "tubal": 1
+          },
+          "GBBYY": {
+            "tally": 1
+          },
+          "YBBGG": {
+            "fatal": 1
+          }
+        }
+      },
+      "BBBYG": {
+        "angst": 1
+      },
+      "BBBBY": {
+        "taffy": {
+          "YGBBB": {
+            "datum": 1
+          },
+          "YGBBG": {
+            "patsy": 1
+          },
+          "GGBBG": {
+            "tabby": 1
+          },
+          "GGGGG": {
+            "taffy": 1
+          }
+        }
+      },
+      "BBBBG": {
+        "squat": {
+          "GGGGG": {
+            "squat": 1
+          },
+          "BBYYG": {
+            "gamut": 1
+          }
+        }
+      },
+      "BBGBG": {
+        "waist": 1
+      },
+      "YYBBY": {
+        "latch": 1
+      },
+      "BBBGY": {
+        "tawny": 1
+      },
+      "GBBBG": {
+        "caput": 1
+      },
+      "BBYYY": {
+        "titan": {
+          "GGGGG": {
+            "titan": 1
+          },
+          "YYGYG": {
+            "satin": 1
+          }
+        }
+      },
+      "YBBBG": {
+        "yacht": 1
+      },
+      "YBYYY": {
+        "antic": 1
+      },
+      "YBYBY": {
+        "attic": 1
+      }
+    }
+  },
+  "YGBBG": {
+    "gnash": {
+      "YBBBB": {
+        "forge": 1
+      },
+      "GBBBB": {
+        "gorge": 1
+      },
+      "BBBBY": {
+        "horde": 1
+      },
+      "BBBBB": {
+        "force": 1
+      },
+      "BBBGB": {
+        "worse": 1
+      },
+      "BBBGY": {
+        "horse": 1
+      },
+      "BYBBB": {
+        "borne": 1
+      }
+    }
+  },
+  "YGBBB": {
+    "cundy": {
+      "GBYBG": {
+        "corny": 1
+      },
+      "BBBYG": {
+        "dowry": 1
+      },
+      "BBBYB": {
+        "world": 1
+      },
+      "BYYBB": {
+        "mourn": 1
+      },
+      "BBBBB": {
+        "forgo": {
+          "GGGGG": {
+            "forgo": 1
+          },
+          "BGGBY": {
+            "morph": 1
+          }
+        }
+      },
+      "BBGYB": {
+        "donor": 1
+      },
+      "BBBBG": {
+        "ables": {
+          "BBBBY": {
+            "sorry": 1
+          },
+          "BBBBB": {
+            "worry": 1
+          },
+          "BBYBB": {
+            "lorry": 1
+          }
+        }
+      },
+      "BBYBB": {
+        "moron": 1
+      },
+      "BBYBG": {
+        "horny": 1
+      },
+      "YBBBB": {
+        "porch": 1
+      },
+      "BBGBB": {
+        "honor": 1
+      },
+      "GBBBB": {
+        "color": 1
+      },
+      "BBBGG": {
+        "wordy": 1
+      },
+      "BYBBB": {
+        "forum": 1
+      },
+      "BYBYB": {
+        "gourd": 1
+      }
+    }
+  },
+  "BGBYB": {
+    "munis": {
+      "GYBBB": {
+        "moult": 1
+      },
+      "BBBBY": {
+        "boost": 1
+      },
+      "BBYYB": {
+        "point": {
+          "GGGGG": {
+            "point": 1
+          },
+          "BGGGG": {
+            "joint": 1
+          }
+        }
+      },
+      "GYYBB": {
+        "mount": 1
+      },
+      "GBBYY": {
+        "moist": 1
+      },
+      "BYBBB": {
+        "tough": {
+          "YGGBB": {
+            "doubt": 1
+          },
+          "GGGGG": {
+            "tough": 1
+          },
+          "GGGBG": {
+            "touch": 1
+          }
+        }
+      },
+      "YBBGB": {
+        "vomit": 1
+      },
+      "BYYBB": {
+        "count": 1
+      },
+      "BBYGB": {
+        "toxin": 1
+      },
+      "BBBBB": {
+        "toddy": {
+          "YGBBG": {
+            "hotly": 1
+          },
+          "YGBBB": {
+            "botch": 1
+          },
+          "GGGGG": {
+            "toddy": 1
+          }
+        }
+      },
+      "BBBYY": {
+        "aflaj": {
+          "BBBBB": {
+            "hoist": 1
+          },
+          "BBBBY": {
+            "joist": 1
+          },
+          "BYBBB": {
+            "foist": 1
+          }
+        }
+      },
+      "BYGBB": {
+        "donut": 1
+      },
+      "BBBGY": {
+        "posit": 1
+      },
+      "BBYBB": {
+        "notch": 1
+      },
+      "GBBGB": {
+        "motif": 1
+      },
+      "BYBBY": {
+        "joust": 1
+      },
+      "BBBGB": {
+        "topic": {
+          "GGGGG": {
+            "topic": 1
+          },
+          "GGBGG": {
+            "toxic": 1
+          }
+        }
+      },
+      "BBGGB": {
+        "tonic": 1
+      }
+    }
+  },
+  "BBGBB": {
+    "slick": {
+      "BBBGG": {
+        "abuna": {
+          "GGBBY": {
+            "aback": 1
+          },
+          "YBBBY": {
+            "whack": 1
+          },
+          "YBYBY": {
+            "quack": 1
+          },
+          "YBBYY": {
+            "knack": 1
+          }
+        }
+      },
+      "BBBYB": {
+        "champ": {
+          "GGGGG": {
+            "champ": 1
+          },
+          "GGGBB": {
+            "chaff": 1
+          }
+        }
+      },
+      "GYBBB": {
+        "small": {
+          "GBGGG": {
+            "shall": 1
+          },
+          "GBGYG": {
+            "shawl": 1
+          },
+          "GGGGG": {
+            "small": 1
+          }
+        }
+      },
+      "BGBGG": {
+        "abaft": {
+          "YYGBB": {
+            "black": 1
+          },
+          "YBGYB": {
+            "flack": 1
+          },
+          "YBGBB": {
+            "clack": 1
+          }
+        }
+      },
+      "YGBBB": {
+        "glass": {
+          "GGGGG": {
+            "glass": 1
+          },
+          "BGGGY": {
+            "flash": 1
+          }
+        }
+      },
+      "BGBBB": {
+        "abamp": {
+          "YYGBB": {
+            "bland": 1
+          },
+          "YBGGB": {
+            "llama": 1
+          },
+          "YBGBY": {
+            "plaza": 1
+          },
+          "YBGBB": {
+            "gland": 1
+          }
+        }
+      },
+      "BBYBY": {
+        "khaki": 1
+      },
+      "YGBYB": {
+        "aches": {
+          "YYBBG": {
+            "class": 1
+          },
+          "YYBBY": {
+            "clasp": 1
+          },
+          "YYYBY": {
+            "clash": 1
+          }
+        }
+      },
+      "GYBYB": {
+        "acidy": {
+          "YGBYB": {
+            "scald": 1
+          },
+          "YGBBB": {
+            "scalp": 1
+          },
+          "YGBBG": {
+            "scaly": 1
+          }
+        }
+      },
+      "BGYYB": {
+        "claim": 1
+      },
+      "YBYBB": {
+        "quasi": 1
+      },
+      "GGBGG": {
+        "slack": 1
+      },
+      "GBBBB": {
+        "swash": {
+          "GYGYB": {
+            "spawn": 1
+          },
+          "GBGYY": {
+            "shady": 1
+          },
+          "GBGGG": {
+            "smash": 1
+          },
+          "GGGYB": {
+            "swamp": 1
+          },
+          "GBGGB": {
+            "spasm": 1
+          },
+          "GGGGG": {
+            "swash": 1
+          }
+        }
+      },
+      "BYBBB": {
+        "qualm": 1
+      },
+      "GYYBB": {
+        "snail": 1
+      },
+      "GBBGG": {
+        "abmho": {
+          "YBYBB": {
+            "smack": 1
+          },
+          "YBBYB": {
+            "shack": 1
+          },
+          "YBBBB": {
+            "snack": 1
+          }
+        }
+      },
+      "BGBBG": {
+        "abaft": {
+          "YYGBB": {
+            "blank": 1
+          },
+          "YBGYB": {
+            "flank": 1
+          },
+          "YBGBB": {
+            "plank": 1
+          }
+        }
+      },
+      "GBBBG": {
+        "shank": {
+          "GGGGG": {
+            "shank": 1
+          },
+          "GBGGG": {
+            "spank": 1
+          }
+        }
+      },
+      "YBBBB": {
+        "aargh": {
+          "GYBBB": {
+            "amass": 1
+          },
+          "GYBBG": {
+            "awash": 1
+          },
+          "YYBYG": {
+            "gnash": 1
+          },
+          "YYBBG": {
+            "quash": 1
+          }
+        }
+      },
+      "GBYBB": {
+        "swami": 1
+      },
+      "YYBBB": {
+        "psalm": 1
+      },
+      "GGBBB": {
+        "slang": {
+          "GGGGG": {
+            "slang": 1
+          },
+          "GGGBB": {
+            "slash": 1
+          }
+        }
+      },
+      "BYYBB": {
+        "avail": {
+          "GGGGG": {
+            "avail": 1
+          },
+          "YBGGG": {
+            "quail": 1
+          }
+        }
+      },
+      "GBBBY": {
+        "snaky": {
+          "GGGGG": {
+            "snaky": 1
+          },
+          "GBGGG": {
+            "shaky": 1
+          }
+        }
+      },
+      "BYBYG": {
+        "chalk": 1
+      },
+      "BGYBB": {
+        "plain": {
+          "GGGGB": {
+            "plaid": 1
+          },
+          "GGGGG": {
+            "plain": 1
+          },
+          "BGGGB": {
+            "flail": 1
+          }
+        }
+      },
+      "BBYBB": {
+        "again": 1
+      },
+      "GGYBB": {
+        "slain": 1
+      },
+      "YBBYB": {
+        "chasm": 1
+      },
+      "BGBYB": {
+        "clamp": {
+          "GGGGG": {
+            "clamp": 1
+          },
+          "GGGBB": {
+            "clang": 1
+          }
+        }
+      },
+      "BGBYG": {
+        "clank": 1
+      },
+      "YGBBG": {
+        "flask": 1
+      },
+      "BBYYB": {
+        "chain": 1
+      },
+      "BGBBY": {
+        "flaky": 1
+      },
+      "BBBBB": {
+        "guava": 1
+      },
+      "GBBYB": {
+        "scamp": 1
+      }
+    }
+  },
+  "YGBYB": {
+    "worst": {
+      "BGYBY": {
+        "motor": 1
+      },
+      "GGGGG": {
+        "worst": 1
+      },
+      "BGGBY": {
+        "torch": 1
+      },
+      "BGGYY": {
+        "torus": 1
+      },
+      "BGYBG": {
+        "court": 1
+      },
+      "BGGGY": {
+        "torso": 1
+      }
+    }
+  },
+  "YYBBG": {
+    "phons": {
+      "BBGBB": {
+        "bovid": {
+          "BYBBY": {
+            "erode": 1
+          },
+          "BYYBB": {
+            "grove": 1
+          },
+          "BYYBY": {
+            "drove": 1
+          },
+          "GYBBB": {
+            "broke": 1
+          },
+          "BYBBB": {
+            "froze": 1
+          }
+        }
+      },
+      "GBGBB": {
+        "prove": {
+          "GGGGG": {
+            "prove": 1
+          },
+          "GGGBG": {
+            "probe": 1
+          }
+        }
+      },
+      "BBYBB": {
+        "ombre": 1
+      },
+      "GBGGB": {
+        "prone": 1
+      },
+      "GBGBY": {
+        "prose": 1
+      },
+      "BBGBY": {
+        "swore": {
+          "GGGGG": {
+            "swore": 1
+          },
+          "GBGGG": {
+            "score": 1
+          }
+        }
+      },
+      "YBGBY": {
+        "spore": 1
+      },
+      "BGGBB": {
+        "chore": 1
+      },
+      "YBGBB": {
+        "grope": 1
+      },
+      "BBGGB": {
+        "drone": {
+          "GGGGG": {
+            "drone": 1
+          },
+          "BGGGG": {
+            "crone": 1
+          }
+        }
+      },
+      "BGGBY": {
+        "shore": 1
+      },
+      "BBGYY": {
+        "snore": 1
+      }
+    }
+  },
+  "BGBBG": {
+    "pulis": {
+      "BYBBB": {
+        "gouge": {
+          "GGGGG": {
+            "gouge": 1
+          },
+          "YGYYG": {
+            "vogue": 1
+          }
+        }
+      },
+      "BBGBY": {
+        "solve": 1
+      },
+      "BBBBB": {
+        "dodge": {
+          "GGGGG": {
+            "dodge": 1
+          },
+          "BGBBG": {
+            "booze": 1
+          }
+        }
+      },
+      "BBBGB": {
+        "movie": 1
+      },
+      "BBBBY": {
+        "acing": {
+          "BBBBY": {
+            "goose": 1
+          },
+          "BBBYB": {
+            "noose": 1
+          },
+          "BBBBB": {
+            "moose": 1
+          }
+        }
+      },
+      "BBBYB": {
+        "voice": 1
+      },
+      "BYYBY": {
+        "louse": 1
+      },
+      "BBYBY": {
+        "loose": 1
+      },
+      "BYBBY": {
+        "house": {
+          "GGGGG": {
+            "house": 1
+          },
+          "BGGGG": {
+            "mouse": 1
+          }
+        }
+      },
+      "BYYBB": {
+        "boule": 1
+      },
+      "YBBBY": {
+        "copse": 1
+      },
+      "BBYBB": {
+        "lodge": {
+          "GGGGG": {
+            "lodge": 1
+          },
+          "YGBBG": {
+            "noble": 1
+          }
+        }
+      },
+      "GBBYY": {
+        "poise": 1
+      },
+      "GBBBY": {
+        "posse": 1
+      },
+      "BBBYY": {
+        "noise": 1
+      },
+      "YYBBB": {
+        "coupe": 1
+      }
+    }
+  },
+  "YBYYY": {
+    "talea": {
+      "YYBYY": {
+        "great": {
+          "GGGGG": {
+            "great": 1
+          },
+          "BYGYG": {
+            "avert": 1
+          }
+        }
+      },
+      "YGBGY": {
+        "cahow": {
+          "GGBBB": {
+            "cater": 1
+          },
+          "BGYBB": {
+            "hater": 1
+          },
+          "BGBBB": {
+            "eater": 1
+          },
+          "BGBBY": {
+            "water": 1
+          }
+        }
+      },
+      "GYBYY": {
+        "treat": {
+          "GGGGG": {
+            "treat": 1
+          },
+          "GGGGY": {
+            "tread": 1
+          }
+        }
+      },
+      "GGBGY": {
+        "abamp": {
+          "YBYYB": {
+            "tamer": 1
+          },
+          "YBYBY": {
+            "taper": 1
+          },
+          "YBYBB": {
+            "taker": 1
+          }
+        }
+      },
+      "YGYGY": {
+        "later": 1
+      },
+      "YYBGY": {
+        "after": 1
+      },
+      "YYYGY": {
+        "alter": 1
+      },
+      "YYYYY": {
+        "alert": 1
+      },
+      "GYBYG": {
+        "terra": 1
+      },
+      "YYBYG": {
+        "extra": 1
+      }
+    }
+  },
+  "YBYYB": {
+    "spyal": {
+      "BBBGY": {
+        "altar": 1
+      },
+      "BBBGB": {
+        "triad": {
+          "GGGGG": {
+            "triad": 1
+          },
+          "YYBGB": {
+            "carat": 1
+          }
+        }
+      },
+      "BYBYB": {
+        "tapir": 1
+      },
+      "BBBYY": {
+        "ultra": 1
+      },
+      "GBYGB": {
+        "stray": 1
+      },
+      "GBBGB": {
+        "straw": 1
+      },
+      "BBYYB": {
+        "tardy": 1
+      },
+      "GYBGB": {
+        "strap": 1
+      },
+      "BBBGG": {
+        "trial": 1
+      },
+      "GBYYB": {
+        "satyr": 1
+      },
+      "YBYYB": {
+        "artsy": 1
+      }
+    }
+  },
+  "BGGYB": {
+    "abaca": {
+      "YBGYY": {
+        "coast": 1
+      },
+      "YBGBY": {
+        "toast": 1
+      },
+      "YYGBY": {
+        "boast": 1
+      }
+    }
+  },
+  "GGBBG": {
+    "rouse": {
+      "GGYBG": {
+        "rogue": 1
+      },
+      "GGGBG": {
+        "rouge": 1
+      },
+      "GGGGG": {
+        "rouse": 1
+      }
+    }
+  },
+  "GYYBB": {
+    "razor": {
+      "GGBYY": {
+        "radio": 1
+      },
+      "GGGGG": {
+        "razor": 1
+      },
+      "GGBGY": {
+        "rayon": 1
+      }
+    }
+  },
+  "YYBGG": {
+    "wrote": 1
+  },
+  "BBBYG": {
+    "thins": {
+      "GBYBB": {
+        "tilde": {
+          "GGGGG": {
+            "tilde": 1
+          },
+          "GGYBG": {
+            "title": 1
+          }
+        }
+      },
+      "GBGBB": {
+        "twice": 1
+      },
+      "GGBBB": {
+        "theme": {
+          "GGGGG": {
+            "theme": 1
+          },
+          "GGYGG": {
+            "thyme": 1
+          }
+        }
+      },
+      "GBGGB": {
+        "twine": 1
+      },
+      "YBYBB": {
+        "cutie": 1
+      },
+      "YBGBB": {
+        "utile": 1
+      },
+      "GBBYY": {
+        "tense": 1
+      },
+      "GYYBB": {
+        "tithe": 1
+      },
+      "GGBBY": {
+        "these": 1
+      },
+      "GBBBB": {
+        "tulle": {
+          "GGGGG": {
+            "tulle": 1
+          },
+          "GBBBG": {
+            "tepee": 1
+          }
+        }
+      },
+      "YYYBB": {
+        "lithe": 1
+      },
+      "YBBBB": {
+        "etude": 1
+      },
+      "YBBBY": {
+        "style": 1
+      },
+      "YBYYB": {
+        "untie": 1
+      }
+    }
+  },
+  "YYBYG": {
+    "trove": {
+      "YYGBG": {
+        "store": 1
+      },
+      "GGGGG": {
+        "trove": 1
+      },
+      "GGGBG": {
+        "trope": 1
+      }
+    }
+  },
+  "BBYYY": {
+    "splat": {
+      "BBBGG": {
+        "wheat": {
+          "BGGGG": {
+            "cheat": 1
+          },
+          "BBYGG": {
+            "begat": 1
+          },
+          "GGGGG": {
+            "wheat": 1
+          }
+        }
+      },
+      "BYYGG": {
+        "pleat": 1
+      },
+      "BBYGY": {
+        "metal": {
+          "GGGGG": {
+            "metal": 1
+          },
+          "BGGGG": {
+            "fetal": 1
+          }
+        }
+      },
+      "YBBYG": {
+        "asset": 1
+      },
+      "GBBGY": {
+        "adeem": {
+          "YYGYB": {
+            "stead": 1
+          },
+          "YBGYB": {
+            "steak": 1
+          },
+          "YBGYG": {
+            "steam": 1
+          }
+        }
+      },
+      "BBGGG": {
+        "eclat": 1
+      },
+      "BBGYG": {
+        "valet": 1
+      },
+      "BBBYY": {
+        "taken": {
+          "YGBGG": {
+            "eaten": 1
+          },
+          "YGBGB": {
+            "matey": 1
+          },
+          "GGGGG": {
+            "taken": 1
+          }
+        }
+      },
+      "GBYGY": {
+        "steal": 1
+      },
+      "GBBGG": {
+        "sweat": 1
+      },
+      "BYBYG": {
+        "adept": 1
+      },
+      "BBYGG": {
+        "bleat": {
+          "GGGGG": {
+            "bleat": 1
+          },
+          "BGGGG": {
+            "cleat": 1
+          }
+        }
+      },
+      "BBBYG": {
+        "facet": {
+          "GGGGG": {
+            "facet": 1
+          },
+          "BYBYG": {
+            "agent": 1
+          },
+          "BGYGG": {
+            "cadet": 1
+          }
+        }
+      },
+      "BYYGY": {
+        "petal": 1
+      },
+      "BBBGY": {
+        "tweak": 1
+      }
+    }
+  },
+  "BYBBY": {
+    "demon": {
+      "BYBYB": {
+        "epoch": {
+          "GGGGG": {
+            "epoch": 1
+          },
+          "GGGBB": {
+            "epoxy": 1
+          }
+        }
+      },
+      "BYBGY": {
+        "enjoy": {
+          "GGGGG": {
+            "enjoy": 1
+          },
+          "GGBGG": {
+            "envoy": 1
+          }
+        }
+      },
+      "BGYGY": {
+        "venom": 1
+      },
+      "BGBGB": {
+        "below": 1
+      },
+      "BYBGB": {
+        "elbow": 1
+      },
+      "GGGGG": {
+        "demon": 1
+      },
+      "YYBYG": {
+        "olden": 1
+      },
+      "BYBYY": {
+        "ebony": 1
+      },
+      "BGYGG": {
+        "melon": 1
+      },
+      "GGBGB": {
+        "decoy": 1
+      },
+      "BGBYB": {
+        "hello": {
+          "BGGGG": {
+            "cello": 1
+          },
+          "BGBBG": {
+            "gecko": 1
+          },
+          "GGGGG": {
+            "hello": 1
+          }
+        }
+      },
+      "YYBYB": {
+        "video": 1
+      },
+      "YYBGY": {
+        "endow": 1
+      },
+      "BGGGG": {
+        "lemon": 1
+      },
+      "BGBGG": {
+        "felon": 1
+      }
+    }
+  },
+  "GYBBB": {
+    "rumor": {
+      "GBBYY": {
+        "rhino": 1
+      },
+      "GBBGG": {
+        "rigor": 1
+      },
+      "GGGGG": {
+        "rumor": 1
+      }
+    }
+  },
+  "BBYBG": {
+    "mauls": {
+      "GGBBY": {
+        "masse": 1
+      },
+      "BYBBY": {
+        "aside": 1
+      },
+      "BGGBY": {
+        "sauce": {
+          "YGGBG": {
+            "pause": 1
+          },
+          "YGGYG": {
+            "cause": 1
+          },
+          "GGGGG": {
+            "sauce": 1
+          }
+        }
+      },
+      "BGBYY": {
+        "salve": {
+          "YGYBG": {
+            "lapse": 1
+          },
+          "YGGBG": {
+            "false": 1
+          },
+          "GGGGG": {
+            "salve": 1
+          }
+        }
+      },
+      "YYBGB": {
+        "ample": {
+          "GGGGG": {
+            "ample": 1
+          },
+          "GGBGG": {
+            "amble": 1
+          }
+        }
+      },
+      "BGBBB": {
+        "anigh": {
+          "YBBGB": {
+            "badge": 1
+          },
+          "YBGBB": {
+            "waive": 1
+          },
+          "YYGBB": {
+            "naive": 1
+          },
+          "YBBYB": {
+            "gaffe": 1
+          },
+          "YBBBY": {
+            "cache": 1
+          },
+          "YYBBB": {
+            "dance": 1
+          },
+          "YBBBB": {
+            "payee": 1
+          }
+        }
+      },
+      "BGGBB": {
+        "gauze": {
+          "GGGGG": {
+            "gauze": 1
+          },
+          "GGGBG": {
+            "gauge": 1
+          }
+        }
+      },
+      "BYBYB": {
+        "alive": {
+          "GGGBG": {
+            "alike": 1
+          },
+          "GGGGG": {
+            "alive": 1
+          },
+          "GGBBG": {
+            "algae": 1
+          }
+        }
+      },
+      "BGBYB": {
+        "valve": {
+          "GGGGG": {
+            "valve": 1
+          },
+          "BGYBG": {
+            "lance": 1
+          },
+          "YGGGG": {
+            "halve": 1
+          }
+        }
+      },
+      "BYBGB": {
+        "angle": {
+          "GBBGG": {
+            "apple": 1
+          },
+          "GGGGG": {
+            "angle": 1
+          },
+          "GBYGG": {
+            "agile": 1
+          },
+          "GGBGG": {
+            "ankle": 1
+          }
+        }
+      },
+      "BGBGB": {
+        "befog": {
+          "BYBBY": {
+            "eagle": 1
+          },
+          "YYYBB": {
+            "fable": 1
+          },
+          "BYBBB": {
+            "ladle": 1
+          },
+          "YYBBB": {
+            "cable": 1
+          }
+        }
+      },
+      "YYBBB": {
+        "anime": 1
+      },
+      "YYGBY": {
+        "amuse": 1
+      },
+      "BYBBB": {
+        "abide": 1
+      },
+      "GGBBB": {
+        "abaci": {
+          "YBYBB": {
+            "mange": 1
+          },
+          "YBYBY": {
+            "maize": 1
+          },
+          "YYYBB": {
+            "maybe": 1
+          }
+        }
+      },
+      "GGBGB": {
+        "maple": 1
+      },
+      "BGYYB": {
+        "value": 1
+      },
+      "BYGBY": {
+        "abuse": 1
+      },
+      "BYBGY": {
+        "aisle": 1
+      },
+      "BGYBB": {
+        "vague": 1
+      },
+      "GGGBB": {
+        "mauve": 1
+      }
+    }
+  },
+  "YBGYG": {
+    "trade": {
+      "GGGBG": {
+        "trace": 1
+      },
+      "YYGBG": {
+        "stare": 1
+      },
+      "GGGGG": {
+        "trade": 1
+      }
+    }
+  },
+  "BBGBY": {
+    "child": {
+      "YYBBB": {
+        "peach": {
+          "GGGGG": {
+            "peach": 1
+          },
+          "BGGGG": {
+            "beach": 1
+          }
+        }
+      },
+      "BBBBY": {
+        "beady": 1
+      },
+      "BBBYB": {
+        "leaky": {
+          "GGGGG": {
+            "leaky": 1
+          },
+          "GGGBG": {
+            "leafy": 1
+          }
+        }
+      },
+      "BYBBY": {
+        "heady": 1
+      },
+      "BYBBB": {
+        "heavy": 1
+      },
+      "BYBYB": {
+        "leash": 1
+      },
+      "BBBGB": {
+        "mealy": 1
+      },
+      "BBYYB": {
+        "email": 1
+      },
+      "YYBYB": {
+        "leach": 1
+      }
+    }
+  },
+  "BYYYB": {
+    "bloat": {
+      "GBYYY": {
+        "baton": 1
+      },
+      "BGGYG": {
+        "aloft": 1
+      },
+      "BYGYY": {
+        "atoll": 1
+      },
+      "BGGGG": {
+        "float": {
+          "GGGGG": {
+            "float": 1
+          },
+          "BGGGG": {
+            "gloat": 1
+          }
+        }
+      },
+      "BYYGY": {
+        "octal": 1
+      },
+      "BBYYY": {
+        "patio": {
+          "GGGGG": {
+            "patio": 1
+          },
+          "BGYBG": {
+            "tango": 1
+          }
+        }
+      },
+      "YBGYG": {
+        "about": 1
+      },
+      "BBGYG": {
+        "adopt": {
+          "GGGGG": {
+            "adopt": 1
+          },
+          "GBGBG": {
+            "afoot": 1
+          }
+        }
+      },
+      "BBYYG": {
+        "ascot": 1
+      },
+      "GGGGG": {
+        "bloat": 1
+      },
+      "YBYYG": {
+        "abbot": 1
+      },
+      "BYYYY": {
+        "talon": 1
+      },
+      "YBYYY": {
+        "taboo": 1
+      },
+      "BGYYG": {
+        "allot": 1
+      }
+    }
+  },
+  "BBYGG": {
+    "whups": {
+      "BBGBB": {
+        "acute": 1
+      },
+      "BBGBY": {
+        "saute": 1
+      },
+      "GBBBY": {
+        "waste": 1
+      },
+      "BBBYY": {
+        "paste": 1
+      },
+      "BBBBY": {
+        "abaca": {
+          "YBYYY": {
+            "caste": 1
+          },
+          "YBYBY": {
+            "taste": 1
+          },
+          "YYYBY": {
+            "baste": 1
+          }
+        }
+      },
+      "BYBBY": {
+        "haste": 1
+      },
+      "BBBBB": {
+        "latte": 1
+      },
+      "BYGBB": {
+        "haute": 1
+      }
+    }
+  },
+  "GBBBY": {
+    "spier": {
+      "YBBYY": {
+        "rebus": 1
+      },
+      "BBBGY": {
+        "revel": {
+          "GGBGB": {
+            "renew": 1
+          },
+          "GGBGG": {
+            "rebel": 1
+          },
+          "GGGGG": {
+            "revel": 1
+          }
+        }
+      },
+      "BBBGG": {
+        "ruler": {
+          "GGBGG": {
+            "ruder": 1
+          },
+          "GGGGG": {
+            "ruler": 1
+          },
+          "GBBGG": {
+            "refer": 1
+          }
+        }
+      },
+      "YBYGY": {
+        "risen": 1
+      },
+      "BYBYY": {
+        "reply": 1
+      },
+      "BBYGG": {
+        "river": {
+          "GGGGG": {
+            "river": 1
+          },
+          "GGBGG": {
+            "rider": 1
+          }
+        }
+      },
+      "BBGYY": {
+        "reign": 1
+      },
+      "BBBYG": {
+        "recur": 1
+      },
+      "BYYGG": {
+        "riper": 1
+      },
+      "YBYYY": {
+        "resin": 1
+      },
+      "BBBYY": {
+        "rerun": {
+          "GGGGG": {
+            "rerun": 1
+          },
+          "GGYBB": {
+            "reedy": 1
+          }
+        }
+      },
+      "BYBGY": {
+        "repel": 1
+      },
+      "BBYYY": {
+        "relic": 1
+      },
+      "BYYGY": {
+        "ripen": 1
+      },
+      "YBYGG": {
+        "riser": 1
+      }
+    }
+  },
+  "YGYBB": {
+    "balms": {
+      "BYGBY": {
+        "solar": 1
+      },
+      "BYBBB": {
+        "foray": 1
+      },
+      "GYBBB": {
+        "borax": 1
+      },
+      "BYGYB": {
+        "molar": 1
+      },
+      "BYYBB": {
+        "coral": 1
+      },
+      "BYGBB": {
+        "polar": 1
+      },
+      "BYYYB": {
+        "moral": 1
+      },
+      "YYBBB": {
+        "cobra": 1
+      },
+      "BYBBY": {
+        "sonar": 1
+      }
+    }
+  },
+  "GGBYB": {
+    "rotor": {
+      "GGYGY": {
+        "robot": 1
+      },
+      "GGGGG": {
+        "rotor": 1
+      },
+      "GGYYY": {
+        "roost": 1
+      }
+    }
+  },
+  "BYBYG": {
+    "slank": {
+      "YBBBB": {
+        "those": 1
+      },
+      "GBBBB": {
+        "stove": 1
+      },
+      "GYBBB": {
+        "stole": 1
+      },
+      "GBBBY": {
+        "stoke": 1
+      },
+      "GBBGB": {
+        "stone": 1
+      }
+    }
+  },
+  "YYBYY": {
+    "outer": {
+      "GBYGG": {
+        "other": 1
+      },
+      "GGGGG": {
+        "outer": 1
+      },
+      "GBGGG": {
+        "otter": 1
+      },
+      "GBYYY": {
+        "overt": 1
+      },
+      "YBYYG": {
+        "tenor": 1
+      },
+      "YBGYY": {
+        "metro": 1
+      }
+    }
+  },
+  "GBBBG": {
+    "adsum": {
+      "BBBYB": {
+        "rupee": 1
+      },
+      "BBBBY": {
+        "rhyme": 1
+      },
+      "BBBBB": {
+        "rifle": 1
+      },
+      "BYBBB": {
+        "ridge": 1
+      },
+      "BBBGB": {
+        "revue": 1
+      },
+      "BBYYB": {
+        "reuse": 1
+      },
+      "BBYBB": {
+        "rinse": 1
+      }
+    }
+  },
+  "BYBGB": {
+    "bunch": {
+      "BBBYG": {
+        "cloth": 1
+      },
+      "BBGBB": {
+        "pinto": 1
+      },
+      "BBBBG": {
+        "sloth": 1
+      },
+      "BBBBY": {
+        "photo": 1
+      },
+      "BBBBB": {
+        "ditto": 1
+      },
+      "BGBBB": {
+        "gusto": 1
+      },
+      "BGGBB": {
+        "junto": 1
+      },
+      "BGBBG": {
+        "quoth": 1
+      }
+    }
+  },
+  "YGGBB": {
+    "hoard": {
+      "GGGGG": {
+        "hoard": 1
+      },
+      "BGGGG": {
+        "board": 1
+      }
+    }
+  },
+  "BGBGB": {
+    "shoyu": {
+      "BYYBB": {
+        "month": 1
+      },
+      "BBYBB": {
+        "motto": 1
+      },
+      "BYYYY": {
+        "youth": 1
+      },
+      "BBYYB": {
+        "lofty": 1
+      },
+      "GYGBB": {
+        "sooth": 1
+      },
+      "GYYBY": {
+        "south": 1
+      },
+      "BYGBB": {
+        "tooth": {
+          "GGGGG": {
+            "tooth": 1
+          },
+          "YGGGG": {
+            "booth": 1
+          }
+        }
+      },
+      "GBGYB": {
+        "sooty": 1
+      },
+      "BBYYY": {
+        "pouty": 1
+      },
+      "BBGYB": {
+        "booty": 1
+      },
+      "BYYBY": {
+        "mouth": 1
+      }
+    }
+  },
+  "BGYYB": {
+    "aland": {
+      "YBYBY": {
+        "today": 1
+      },
+      "YYYBB": {
+        "total": 1
+      },
+      "YBYBB": {
+        "topaz": 1
+      },
+      "YBYYB": {
+        "tonga": 1
+      },
+      "YYYYB": {
+        "tonal": 1
+      }
+    }
+  },
+  "BBGYG": {
+    "glisk": {
+      "BBBGB": {
+        "tease": 1
+      },
+      "BYBYB": {
+        "stale": 1
+      },
+      "YBBYB": {
+        "stage": 1
+      },
+      "BBBYY": {
+        "stake": 1
+      },
+      "BBBYB": {
+        "stave": 1
+      }
+    }
+  },
+  "BYBYY": {
+    "besot": {
+      "BGBGG": {
+        "depot": 1
+      },
+      "BYGYG": {
+        "onset": 1
+      },
+      "BYBYG": {
+        "octet": 1
+      },
+      "BYBYY": {
+        "often": 1
+      },
+      "BGBYY": {
+        "tempo": 1
+      },
+      "BGBGY": {
+        "detox": 1
+      },
+      "BYYGY": {
+        "ethos": 1
+      },
+      "BYBGY": {
+        "extol": 1
+      }
+    }
+  },
+  "GGYBB": {
+    "royal": 1
+  },
+  "BBBGY": {
+    "plesh": {
+      "BBYYB": {
+        "zesty": {
+          "GGGGG": {
+            "zesty": 1
+          },
+          "BGGGG": {
+            "testy": 1
+          }
+        }
+      },
+      "YBYBG": {
+        "depth": 1
+      },
+      "GBGBB": {
+        "piety": 1
+      },
+      "BYYBB": {
+        "lefty": 1
+      },
+      "BBYBB": {
+        "jetty": {
+          "GGGGG": {
+            "jetty": 1
+          },
+          "BGYGG": {
+            "deity": 1
+          }
+        }
+      },
+      "YBYBB": {
+        "empty": 1
+      },
+      "BBYBY": {
+        "hefty": 1
+      },
+      "BBGBG": {
+        "teeth": 1
+      },
+      "BBYBG": {
+        "tenth": 1
+      },
+      "GBYBB": {
+        "petty": 1
+      }
+    }
+  },
+  "YYBGB": {
+    "froth": {
+      "GGGGG": {
+        "froth": 1
+      },
+      "BGGGG": {
+        "broth": 1
+      }
+    }
+  },
+  "YBBGB": {
+    "beigy": {
+      "BBYYB": {
+        "girth": 1
+      },
+      "BBGBB": {
+        "fritz": 1
+      },
+      "GBYBB": {
+        "birth": 1
+      },
+      "BBYBG": {
+        "dirty": 1
+      },
+      "BBYBB": {
+        "mirth": 1
+      },
+      "BBBBB": {
+        "truth": 1
+      }
+    }
+  },
+  "BYYYG": {
+    "atone": 1
+  },
+  "BBBGG": {
+    "muils": {
+      "YBGBY": {
+        "smite": 1
+      },
+      "BYBBB": {
+        "chute": 1
+      },
+      "BYGBB": {
+        "unite": 1
+      },
+      "BBGBY": {
+        "spite": 1
+      },
+      "BBGYB": {
+        "elite": 1
+      },
+      "BGGBB": {
+        "quite": 1
+      },
+      "BYBYB": {
+        "flute": 1
+      },
+      "BGGBY": {
+        "suite": 1
+      },
+      "BGBBB": {
+        "butte": 1
+      },
+      "BBGBB": {
+        "white": 1
+      }
+    }
+  },
+  "GBBGB": {
+    "rusty": 1
+  },
+  "GYBYY": {
+    "retro": 1
+  },
+  "YBBGY": {
+    "berth": 1
+  },
+  "YBBGG": {
+    "write": {
+      "BGGGG": {
+        "trite": 1
+      },
+      "GGGGG": {
+        "write": 1
+      },
+      "BGBGG": {
+        "brute": 1
+      }
+    }
+  },
+  "YBBYG": {
+    "bices": {
+      "BYYYB": {
+        "trice": 1
+      },
+      "BBBYB": {
+        "there": 1
+      },
+      "BBYYB": {
+        "truce": 1
+      },
+      "BBBGB": {
+        "three": 1
+      },
+      "BBBYY": {
+        "terse": 1
+      },
+      "YYBYB": {
+        "tribe": 1
+      },
+      "BYBYB": {
+        "tripe": 1
+      }
+    }
+  },
+  "GBYBB": {
+    "unlid": {
+      "BYBYB": {
+        "rainy": 1
+      },
+      "BBBGG": {
+        "rabid": {
+          "GGGGG": {
+            "rabid": 1
+          },
+          "GGBGG": {
+            "rapid": 1
+          }
+        }
+      },
+      "BBBYB": {
+        "rabbi": 1
+      },
+      "BBBBB": {
+        "rajah": {
+          "GGGGG": {
+            "rajah": 1
+          },
+          "GGBYB": {
+            "raspy": 1
+          }
+        }
+      },
+      "BYBBY": {
+        "randy": 1
+      },
+      "BBBBY": {
+        "radar": 1
+      },
+      "BBBGY": {
+        "radii": 1
+      },
+      "YBBBB": {
+        "rumba": 1
+      },
+      "BBGBB": {
+        "rally": {
+          "GGGGG": {
+            "rally": 1
+          },
+          "GGGYB": {
+            "ralph": 1
+          }
+        }
+      },
+      "BYBBB": {
+        "ranch": 1
+      },
+      "BBYYB": {
+        "rival": 1
+      },
+      "YBYBB": {
+        "rural": 1
+      }
+    }
+  },
+  "BYGBB": {
+    "chaos": {
+      "GGGGG": {
+        "chaos": 1
+      },
+      "BBGYB": {
+        "piano": 1
+      }
+    }
+  },
+  "BGGBB": {
+    "loamy": {
+      "BGGBB": {
+        "coach": 1
+      },
+      "YGGBB": {
+        "koala": 1
+      },
+      "BGGGG": {
+        "foamy": 1
+      },
+      "BGGBG": {
+        "soapy": 1
+      },
+      "GGGGG": {
+        "loamy": 1
+      }
+    }
+  },
+  "YBGYY": {
+    "heart": {
+      "GGGGG": {
+        "heart": 1
+      },
+      "BGGGY": {
+        "teary": 1
+      }
+    }
+  },
+  "BGGGB": {
+    "loath": 1
+  },
+  "GBBBB": {
+    "rugby": {
+      "GBBBG": {
+        "risky": 1
+      },
+      "GGGGG": {
+        "rugby": 1
+      },
+      "GBGBB": {
+        "rigid": 1
+      },
+      "GGBBG": {
+        "ruddy": 1
+      }
+    }
+  },
+  "BBGYY": {
+    "neals": {
+      "BYGGB": {
+        "exalt": 1
+      },
+      "YGGBB": {
+        "meant": 1
+      },
+      "YYGBB": {
+        "enact": 1
+      },
+      "BGGYY": {
+        "least": 1
+      },
+      "BGGBY": {
+        "abaft": {
+          "YBGBG": {
+            "yeast": 1
+          },
+          "YBGYG": {
+            "feast": 1
+          },
+          "YYGBG": {
+            "beast": 1
+          }
+        }
+      },
+      "YGGYB": {
+        "leant": 1
+      },
+      "BGGYB": {
+        "leapt": 1
+      },
+      "BGGBB": {
+        "teach": 1
+      },
+      "BGGGB": {
+        "dealt": 1
+      },
+      "BYGBB": {
+        "exact": 1
+      }
+    }
+  },
+  "YYGBB": {
+    "ovary": {
+      "GGGGG": {
+        "ovary": 1
+      },
+      "YYGYB": {
+        "bravo": 1
+      }
+    }
+  },
+  "GBYBG": {
+    "range": {
+      "GGGGG": {
+        "range": 1
+      },
+      "GGBBG": {
+        "raise": 1
+      }
+    }
+  },
+  "GGBBY": {
+    "advew": {
+      "BBGGB": {
+        "rover": 1
+      },
+      "BYBGB": {
+        "rodeo": 1
+      },
+      "BBBGB": {
+        "roger": 1
+      },
+      "BBBGY": {
+        "rower": 1
+      }
+    }
+  },
+  "BYYBY": {
+    "omega": {
+      "GBGBY": {
+        "ocean": 1
+      },
+      "GBYBY": {
+        "oaken": 1
+      },
+      "GGGGG": {
+        "omega": 1
+      },
+      "YYYBY": {
+        "cameo": 1
+      }
+    }
+  },
+  "BBYYG": {
+    "table": {
+      "YGYBG": {
+        "bathe": 1
+      },
+      "GGGGG": {
+        "table": 1
+      },
+      "YGBYG": {
+        "lathe": 1
+      }
+    }
+  },
+  "BYYGB": {
+    "quota": 1
+  },
+  "YBYGY": {
+    "earth": 1
+  },
+  "GGGYB": {
+    "roast": 1
+  },
+  "YBYGB": {
+    "party": {
+      "GGGGG": {
+        "party": 1
+      },
+      "BGGGG": {
+        "warty": 1
+      }
+    }
+  },
+  "YYYBG": {
+    "adore": {
+      "GGGGG": {
+        "adore": 1
+      },
+      "GBGYG": {
+        "arose": 1
+      }
+    }
+  },
+  "GGGBB": {
+    "roach": 1
+  },
+  "GBGBY": {
+    "acold": {
+      "YBBBY": {
+        "ready": 1
+      },
+      "YBBGB": {
+        "realm": 1
+      },
+      "YBBBB": {
+        "rearm": 1
+      },
+      "YYBBB": {
+        "reach": 1
+      }
+    }
+  },
+  "BBGGB": {
+    "swath": 1
+  },
+  "YYYYB": {
+    "tarot": {
+      "GGGGG": {
+        "tarot": 1
+      },
+      "YYYYG": {
+        "abort": 1
+      },
+      "YYYGY": {
+        "actor": 1
+      }
+    }
+  },
+  "GGBGG": {
+    "route": 1
+  },
+  "BYGGG": {
+    "ovate": 1
+  },
+  "BYBGY": {
+    "pesto": 1
+  },
+  "YGBYY": {
+    "voter": {
+      "GGGGG": {
+        "voter": 1
+      },
+      "BGYGG": {
+        "tower": 1
+      }
+    }
+  },
+  "GYYYB": {
+    "ratio": 1
+  },
+  "BYBGG": {
+    "smote": {
+      "GGGGG": {
+        "smote": 1
+      },
+      "BBGGG": {
+        "quote": 1
+      }
+    }
+  },
+  "YBGGB": {
+    "wrath": 1
+  },
+  "YYYBY": {
+    "opera": 1
+  },
+  "GBBYB": {
+    "right": 1
+  },
+  "GBYGB": {
+    "ratty": 1
+  },
+  "YGBGG": {
+    "forte": 1
+  },
+  "YGYGB": {
+    "aorta": 1
+  }
+}

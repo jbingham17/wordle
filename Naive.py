@@ -1,3 +1,5 @@
+# Note, I've commented N2.py since these two files are nearly identical
+
 import json
 import random
 import re
@@ -91,6 +93,8 @@ def naiveSW(data):
             r = re.compile(str)
             results = len(list(filter(r.match, possAnswers)))
             total[g]+=results
+            if g == word:
+                total[g] -= 1
             if total[g] > minTotal:
                 break
         if total[g] <= minTotal:
@@ -108,7 +112,7 @@ def Naive(w, possAnswers, depth):
     buckets = []
     usedInBuckets = set()
     for word in possAnswers:
-        if word in usedInBuckets or word == w:
+        if word in usedInBuckets:
             continue
         str = ""
         chars = "[abcdefghijklmnopqrstuvwxyz]"

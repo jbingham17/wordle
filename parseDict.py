@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 import json
 import random
-# import numpy as np
-# import pandas as pd
-# from pandas import Series, DataFrame
-# import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+from pandas import Series, DataFrame
+import matplotlib.pyplot as plt
 
 class bcolors:
     GREEN = '\033[92m'
@@ -61,7 +61,7 @@ def playNaively(data, word):
     total = set(data["a"]).union(set(data["b"]))
     print(len(total))
 
-    with open('NaiveClean.json') as jsf:
+    with open('bucketTrace.json') as jsf:
         naiveJson = json.load(jsf)
 
     for j in range(0,6):
@@ -124,11 +124,11 @@ def playNaively(data, word):
 
         possible = possible.difference(deletions)
 
-        # print(possible)
-        # print("There are " + str(len(possible)) + " possibilities remaining")
+        print(possible)
+        print("There are " + str(len(possible)) + " possibilities remaining")
         # print(naiveJson)
 
-
+        # print(naiveJson)
         if j==0:
             string = str(naiveJson[res]).replace("'", '"')
         else:
@@ -235,8 +235,7 @@ def naiveFW(data):
 
 
 
-word = randWord(data)
+# word = randWord(data)
 # counts = naiveCount(data)
 # barChart(counts)
-playNaively(data, word)
-print(naiveFW(data))
+playNaively(data, "joker")

@@ -12,29 +12,33 @@ def randWord(data):
 
 # Creates Global variable for the total bank of words that we can guess with
 possGuesses = sorted(data["b"]+data["a"])
+count = 0
 
 # Function outputs the best first word based on our specified criteria
 # This algorithm finds the best word by finding the word that leaves the fewest
 # words remaining at the next level
-def naiveFW(data):
+def shortestFW(data):
     possAnswers = sorted(list(data))
 
     total = {}
-    tops = {}
-    minTotal = 150000
+    minmax = 500
     totalWord = ''
 
     # Filters out all possible answers that don't have repeat letters and only
     # contain the common letters: [aeilnorsty]. This is done to improve execution time
-    p = re.compile(r"(?!.*(\w).*\1{1})[aeilnorsty]{5}")
-    pG= list(filter(p.match, possGuesses))
+    p = re.compile(r"(?!.*(\w).*\1{1})[abcdefghijklmnopqrstuvwxyz]{5}")
+    # pG= list(filter(p.match, possGuesses))
+    pG = ["roate", "trace"]
 
     # Searches through each of our filtered guesses for every possible answer
     # This will help us determine which guess gives us the fewest remaining at the
     # Next level
     for g in pG:
         total[g] = 0
+        used = set()
         for word in possAnswers:
+            if word in used:
+                continue
             str = ""
             chars = "[abcdefghijklmnopqrstuvwxyz]"
             rep = ""
@@ -55,29 +59,35 @@ def naiveFW(data):
                 str = '(?=.*' + z.lower() + ')' + str
 
             r = re.compile(str)
-            results = len(list(filter(r.match, possAnswers)))
-            total[g]+=results
-            if total[g] > minTotal:
-                total[g] = 150000
+            results = list(filter(r.match, possAnswers))
+            for u in results:
+                used.add(u)
+            m = len(results)
+            if m > total[g]:
+                total[g] = m
+            if total[g] > minmax:
                 break
-        if total[g] < minTotal:
-            minTotal = total[g]
+        if total[g] < minmax:
+            minmax = total[g]
             totalWord = g
-        if total[g] < 150000:
-            print(g, total[g])
+            # print(g, minmax)
+        # if total[g] < 170:
+        print(g, total[g])
+
     return totalWord
 
 # Function outputs the best non first word based on our specified criteria
 # This algorithm finds the best word by finding the word that leaves the fewest
 # words remaining at the next level
-def naiveSW(data):
+def shortestSW(data):
     l = len(data)
     if l == 1 or l == 2:
         return data[0]
     possAnswers = sorted(set(data))
     total = {}
-    tops = {}
-    minTotal = 150000
+    # naive = {}
+    minmax = 500
+
     totalWord = ''
     # We no longer filter out any guesses, since the subsequent next best guess
     # tends to be pretty counterintuitive
@@ -86,7 +96,10 @@ def naiveSW(data):
     pG = possAnswers+possGuesses
     for g in pG:
         total[g] = 0
+        used = set()
         for word in possAnswers:
+            if word in used:
+                continue
             str = ""
             chars = "[abcdefghijklmnopqrstuvwxyz]"
             rep = ""
@@ -107,32 +120,31 @@ def naiveSW(data):
                 str = '(?=.*' + z.lower() + ')' + str
 
             r = re.compile(str)
-            results = len(list(filter(r.match, possAnswers)))
-            total[g]+=results
-            if g == word:
-                total[g] -= 1
-
-            # Here we prune branches that cannot win
-            if total[g] > minTotal:
+            results = list(filter(r.match, possAnswers))
+            for u in results:
+                used.add(u)
+            m = len(results)
+            # naive[g] += m
+            if m > total[g]:
+                total[g] = m
+            if total[g] > minmax:
                 break
-        if total[g] <= minTotal:
-            minTotal = total[g]
+        if total[g] < minmax:
+            minmax = total[g]
             totalWord = g
-            # If we find an answer that results in same number of words as we have
-            # Possible answers we know we can quit. Since we started with
-            # remaining answers we don't have to filter for that
-            if total[g] == l:
-                break
+        # if total[g] < 170:
+        #     print(g, total[g], naive[g])
 
     return totalWord
 
-# Recursive function tha finds the buckets of words for the next generation.
-# Will call NaiveSW to grab the best word for the next generation bucket
-def Naive(w, possAnswers):
+# Recursive function that finds the buckets of words for the next generation.
+# Will call bucketSW to grab the best word for the next generation bucket
+def Shorty(w, possAnswers):
 
     # Recursive base case
     l = len(possAnswers)
     if l == 1 or l == 0:
+        print("Hello")
         return l
 
     # Fills the next generation of buckets given a word and possible answers
@@ -144,7 +156,9 @@ def Naive(w, possAnswers):
         str = ""
         chars = "[abcdefghijklmnopqrstuvwxyz]"
         rep = ""
+        # print (possAnswers)
         for i in range(0,5):
+            # print(w, word)
             if w[i] == word[i]:
                 str = str + w[i]
             elif w[i] in word:
@@ -168,7 +182,7 @@ def Naive(w, possAnswers):
     fin = dict()
     for bucket in buckets:
         # print(sorted(bucket), end="    ")
-        gu = naiveSW(bucket[2:])
+        gu = shortestSW(bucket[2:])
         res = ""
         for letter in bucket[0]:
             if letter.isupper():
@@ -181,14 +195,17 @@ def Naive(w, possAnswers):
 
         print("You guessed: " + bucket[1] + " result: " + res)
         fin[res] = {}
-        fin[res][gu] = Naive(gu, bucket[2:])
+        fin[res][gu] = Shorty(gu, bucket[2:])
 
     return fin
 
 # Main code. Initializes the set of words and calls our recursive function which
 # will output the json decision tree for us to use
-t = data["a"]
-# starter = "trace"
+
+# t = ['biddy', 'billy', 'blimp', 'blind', 'blink', 'bliss', 'bluff', 'blush', 'buddy', 'buggy', 'build', 'bulky', 'bully', 'bunch', 'bunny', 'bushy', 'chick', 'child', 'chili', 'chill', 'chuck', 'chump', 'chunk', 'cinch', 'civic', 'civil', 'click', 'cliff', 'climb', 'cling', 'clink', 'cluck', 'clump', 'clung', 'cubic', 'cumin', 'cynic', 'dilly', 'dimly', 'dingy', 'dizzy', 'duchy', 'dully', 'dummy', 'dumpy', 'dusky', 'dying', 'ficus', 'filly', 'filmy', 'finch', 'fishy', 'fizzy', 'flick', 'fling', 'fluff', 'fluid', 'flung', 'flunk', 'flush', 'fully', 'fungi', 'funky', 'funny', 'fussy', 'fuzzy', 'giddy', 'gipsy', 'glyph', 'guild', 'gulch', 'gully', 'gummy', 'guppy', 'gypsy', 'hilly', 'hippy', 'humid', 'humph', 'humus', 'hunch', 'hunky', 'husky', 'hussy', 'icily', 'icing', 'idyll', 'imply', 'jiffy', 'juicy', 'jumpy', 'kinky', 'lipid', 'livid', 'lucid', 'lucky', 'lumpy', 'lunch', 'lupus', 'lying', 'lymph', 'lynch', 'milky', 'mimic', 'minim', 'minus', 'missy', 'mucky', 'mucus', 'muddy', 'mulch', 'mummy', 'munch', 'mushy', 'music', 'musky', 'ninny', 'nymph', 'picky', 'piggy', 'pinch', 'pinky', 'pluck', 'plumb', 'plump', 'plunk', 'plush', 'pubic', 'pudgy', 'puffy', 'pulpy', 'punch', 'pupil', 'puppy', 'pushy', 'pygmy', 'quick', 'quill', 'shiny', 'shuck', 'shush', 'shyly', 'silky', 'silly', 'sissy', 'skiff', 'skill', 'skimp', 'skulk', 'skull', 'skunk', 'slick', 'slimy', 'sling', 'slink', 'slump', 'slung', 'slunk', 'slush', 'slyly', 'sniff', 'snuck', 'snuff', 'spicy', 'spiky', 'spill', 'spiny', 'spunk', 'squib', 'suing', 'sulky', 'sully', 'sunny', 'sushi', 'swill', 'swing', 'swish', 'swung', 'undid', 'unify', 'unzip', 'using', 'vigil', 'vinyl', 'vivid', 'vying', 'which', 'whiff', 'whiny', 'whisk', 'willy', 'wimpy', 'winch', 'windy', 'wispy']
+# t = data["a"]
+# starter = "raise"
 # print(starter)
-# print(json.dumps(Naive(starter, t)))
-print(naiveFW(t))
+# print(json.dumps(Shorty(starter, t)))
+
+print(shortestFW(data["a"]))
