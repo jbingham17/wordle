@@ -61,7 +61,7 @@ def playNaively(data, word):
     total = set(data["a"]).union(set(data["b"]))
     print(len(total))
 
-    with open('bucketTrace.json') as jsf:
+    with open('bucketTrace2.json') as jsf:
         naiveJson = json.load(jsf)
 
     for j in range(0,6):
@@ -236,6 +236,6 @@ def naiveFW(data):
 
 
 # word = randWord(data)
-# counts = naiveCount(data)
-# barChart(counts)
-playNaively(data, "joker")
+counts = naiveCount(data)
+barChart(counts)
+# playNaively(data, "joker")

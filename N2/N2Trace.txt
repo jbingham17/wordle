@@ -1,0 +1,9 @@
+Guess 1:  0
+Guess 2:  75
+Guess 3:  1181
+Guess 4:  999
+Guess 5:  60
+Guess 6:  0
+Failed:  0
+Total:  2315
+Average guesses:  3.6064794816414687

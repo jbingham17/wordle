@@ -1,21 +1,22 @@
+# Note, I've commented N2.py since these two files are nearly identical
+
 import json
 import random
 import re
 
 aLen = 2315
+bLen = 10657
+tLen = aLen+bLen
 
-with open('dict.json') as json_file:
+with open('../dict.json') as json_file:
     data = json.load(json_file)
 
 def randWord(data):
     return data["a"][random.randrange(0,aLen)]
 
-# Creates Global variable for the total bank of words that we can guess with
-possGuesses = sorted(data["b"]+data["a"])
+possGuesses = sorted(data["a"])
 
-# Function outputs the best first word based on our specified criteria
-# This algorithm finds the best word by finding the word that leaves the fewest
-# words remaining at the next level
+
 def naiveFW(data):
     possAnswers = sorted(list(data))
 
@@ -23,15 +24,8 @@ def naiveFW(data):
     tops = {}
     minTotal = 150000
     totalWord = ''
-
-    # Filters out all possible answers that don't have repeat letters and only
-    # contain the common letters: [aeilnorsty]. This is done to improve execution time
     p = re.compile(r"(?!.*(\w).*\1{1})[aeilnorsty]{5}")
     pG= list(filter(p.match, possGuesses))
-
-    # Searches through each of our filtered guesses for every possible answer
-    # This will help us determine which guess gives us the fewest remaining at the
-    # Next level
     for g in pG:
         total[g] = 0
         for word in possAnswers:
@@ -58,18 +52,12 @@ def naiveFW(data):
             results = len(list(filter(r.match, possAnswers)))
             total[g]+=results
             if total[g] > minTotal:
-                total[g] = 150000
                 break
         if total[g] < minTotal:
             minTotal = total[g]
             totalWord = g
-        if total[g] < 150000:
-            print(g, total[g])
     return totalWord
 
-# Function outputs the best non first word based on our specified criteria
-# This algorithm finds the best word by finding the word that leaves the fewest
-# words remaining at the next level
 def naiveSW(data):
     l = len(data)
     if l == 1 or l == 2:
@@ -79,11 +67,7 @@ def naiveSW(data):
     tops = {}
     minTotal = 150000
     totalWord = ''
-    # We no longer filter out any guesses, since the subsequent next best guess
-    # tends to be pretty counterintuitive
-
-    # We start with the remaining words since they are more likely to be the answer
-    pG = possAnswers+possGuesses
+    pG = possAnswers
     for g in pG:
         total[g] = 0
         for word in possAnswers:
@@ -111,31 +95,20 @@ def naiveSW(data):
             total[g]+=results
             if g == word:
                 total[g] -= 1
-
-            # Here we prune branches that cannot win
             if total[g] > minTotal:
                 break
         if total[g] <= minTotal:
             minTotal = total[g]
             totalWord = g
-            # If we find an answer that results in same number of words as we have
-            # Possible answers we know we can quit. Since we started with
-            # remaining answers we don't have to filter for that
             if total[g] == l:
                 break
 
     return totalWord
 
-# Recursive function tha finds the buckets of words for the next generation.
-# Will call NaiveSW to grab the best word for the next generation bucket
-def Naive(w, possAnswers):
-
-    # Recursive base case
+def Naive(w, possAnswers, depth):
     l = len(possAnswers)
     if l == 1 or l == 0:
         return l
-
-    # Fills the next generation of buckets given a word and possible answers
     buckets = []
     usedInBuckets = set()
     for word in possAnswers:
@@ -165,6 +138,8 @@ def Naive(w, possAnswers):
         buckets.append(results)
         for wo in results[2:]:
             usedInBuckets.add(wo)
+    total = 1
+    d = "".join(["--" for v in range(0, depth)])
     fin = dict()
     for bucket in buckets:
         # print(sorted(bucket), end="    ")
@@ -180,15 +155,19 @@ def Naive(w, possAnswers):
 
 
         print("You guessed: " + bucket[1] + " result: " + res)
+        print(d + gu)
         fin[res] = {}
-        fin[res][gu] = Naive(gu, bucket[2:])
+        fin[res][gu] = Naive(gu, bucket[2:], depth+1)
 
     return fin
 
-# Main code. Initializes the set of words and calls our recursive function which
-# will output the json decision tree for us to use
+
+
+# word = randWord(data)
+
+# t = ['alarm', 'award', 'braid', 'brain']
+# t = ['biddy', 'billy', 'blimp', 'blind', 'blink', 'bliss', 'bluff', 'blush', 'buddy', 'buggy', 'build', 'bulky', 'bully', 'bunch', 'bunny', 'bushy', 'chick', 'child', 'chili', 'chill', 'chuck', 'chump', 'chunk', 'cinch', 'civic', 'civil', 'click', 'cliff', 'climb', 'cling', 'clink', 'cluck', 'clump', 'clung', 'cubic', 'cumin', 'cynic', 'dilly', 'dimly', 'dingy', 'dizzy', 'duchy', 'dully', 'dummy', 'dumpy', 'dusky', 'dying', 'ficus', 'filly', 'filmy', 'finch', 'fishy', 'fizzy', 'flick', 'fling', 'fluff', 'fluid', 'flung', 'flunk', 'flush', 'fully', 'fungi', 'funky', 'funny', 'fussy', 'fuzzy', 'giddy', 'gipsy', 'glyph', 'guild', 'gulch', 'gully', 'gummy', 'guppy', 'gypsy', 'hilly', 'hippy', 'humid', 'humph', 'humus', 'hunch', 'hunky', 'husky', 'hussy', 'icily', 'icing', 'idyll', 'imply', 'jiffy', 'juicy', 'jumpy', 'kinky', 'lipid', 'livid', 'lucid', 'lucky', 'lumpy', 'lunch', 'lupus', 'lying', 'lymph', 'lynch', 'milky', 'mimic', 'minim', 'minus', 'missy', 'mucky', 'mucus', 'muddy', 'mulch', 'mummy', 'munch', 'mushy', 'music', 'musky', 'ninny', 'nymph', 'picky', 'piggy', 'pinch', 'pinky', 'pluck', 'plumb', 'plump', 'plunk', 'plush', 'pubic', 'pudgy', 'puffy', 'pulpy', 'punch', 'pupil', 'puppy', 'pushy', 'pygmy', 'quick', 'quill', 'shiny', 'shuck', 'shush', 'shyly', 'silky', 'silly', 'sissy', 'skiff', 'skill', 'skimp', 'skulk', 'skull', 'skunk', 'slick', 'slimy', 'sling', 'slink', 'slump', 'slung', 'slunk', 'slush', 'slyly', 'sniff', 'snuck', 'snuff', 'spicy', 'spiky', 'spill', 'spiny', 'spunk', 'squib', 'suing', 'sulky', 'sully', 'sunny', 'sushi', 'swill', 'swing', 'swish', 'swung', 'undid', 'unify', 'unzip', 'using', 'vigil', 'vinyl', 'vivid', 'vying', 'which', 'whiff', 'whiny', 'whisk', 'willy', 'wimpy', 'winch', 'windy', 'wispy']
 t = data["a"]
-# starter = "trace"
-# print(starter)
-# print(json.dumps(Naive(starter, t)))
-print(naiveFW(t))
+starter = "raise"
+print(starter)
+print(json.dumps(Naive(starter, t, 1)))

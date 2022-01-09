@@ -1,6 +1,6 @@
 import json
 
-file = "shortestRaise.json"
+file = "bucketTrace.json"
 with open(file) as json_file:
     data = json.load(json_file)
 
@@ -29,47 +29,51 @@ guess6 = 0
 failed = 0
 
 for a in alg:
+    if a == "GGGGG":
+        guess1 += 1
+        continue
     for b in alg[a]:
         if str(type(alg[a][b])) == str(type(1)):
             guess2 += 1
         else:
             for c in alg[a][b]:
+                if c == "GGGGG":
+                    guess2 += 1
+                    continue
                 for d in alg[a][b][c]:
-                    if d == b:
-                        guess2 += 1
-                        guess3 -= 1
                     if str(type(alg[a][b][c][d])) == str(type(1)):
                         guess3 += 1
                     else:
                         for e in alg[a][b][c][d]:
+                            if e == "GGGGG":
+                                guess3 += 1
+                                continue
                             for f in alg[a][b][c][d][e]:
-                                if f == d:
-                                    guess3 += 1
-                                    guess4 -= 1
                                 if str(type(alg[a][b][c][d][e][f])) == str(type(1)):
                                     guess4 += 1
                                 else:
                                     for g in alg[a][b][c][d][e][f]:
+                                        if g == "GGGGG":
+                                            guess4 += 1
+                                            continue
                                         for h in alg[a][b][c][d][e][f][g]:
-                                            if h == f:
-                                                guess4 += 1
-                                                guess5 -= 1
                                             if str(type(alg[a][b][c][d][e][f][g][h])) == str(type(1)):
                                                 guess5 += 1
                                             else:
                                                 for i in alg[a][b][c][d][e][f][g][h]:
+                                                    if i == "GGGGG":
+                                                        guess5 += 1
+                                                        continue
                                                     for j in alg[a][b][c][d][e][f][g][h][i]:
-                                                        if i == h:
-                                                            guess5 += 1
-                                                            guess6 -= 1
                                                         if str(type(alg[a][b][c][d][e][f][g][h][i][j])) == str(type(1)):
                                                             guess6 += 1
                                                         else:
                                                             for k in alg[a][b][c][d][e][f][g][h][i][j]:
+                                                                if k == "GGGGG":
+                                                                    guess6 += 1
+                                                                    continue
                                                                 for l in alg[a][b][c][d][e][f][g][h][i][j][k]:
-                                                                    if i == l:
-                                                                        guess6 += 1
-                                                                        failed -= 1
+
                                                                     if str(type(alg[a][b][c][d][e][f][g][h][i][j][k][l])) == str(type(1)):
                                                                         failed += 1
                                                                     else:
@@ -85,7 +89,7 @@ for a in alg:
                                                                                             else:
                                                                                                 pass
 
-guessRate = guess1+2*guess2+3*guess3+4*guess4+5*guess5+6*guess5
+guessRate = guess1+2*guess2+3*guess3+4*guess4+5*guess5+6*guess6
 print("Guess 1: ", guess1)
 print("Guess 2: ", guess2)
 print("Guess 3: ", guess3)
@@ -95,4 +99,5 @@ print("Guess 6: ", guess6)
 print("Failed: ", failed)
 tot = guess1+guess2+guess3+guess4+guess5+guess6+failed
 print("Total: ", tot)
-print("Average guesses: ", guessRate/tot)
+print("Success %: ", 1-failed/tot)
+print("Average guesses for correct answers: ", guessRate/tot)

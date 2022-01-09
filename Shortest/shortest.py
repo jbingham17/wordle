@@ -4,7 +4,7 @@ import re
 
 aLen = 2315
 
-with open('dict.json') as json_file:
+with open('../dict.json') as json_file:
     data = json.load(json_file)
 
 def randWord(data):
@@ -27,8 +27,8 @@ def shortestFW(data):
     # Filters out all possible answers that don't have repeat letters and only
     # contain the common letters: [aeilnorsty]. This is done to improve execution time
     p = re.compile(r"(?!.*(\w).*\1{1})[abcdefghijklmnopqrstuvwxyz]{5}")
-    # pG= list(filter(p.match, possGuesses))
-    pG = ["roate", "trace"]
+    pG= list(filter(p.match, possGuesses))
+    # pG = ["roate", "trace"]
 
     # Searches through each of our filtered guesses for every possible answer
     # This will help us determine which guess gives us the fewest remaining at the
@@ -71,8 +71,8 @@ def shortestFW(data):
             minmax = total[g]
             totalWord = g
             # print(g, minmax)
-        # if total[g] < 170:
-        print(g, total[g])
+        if total[g] < 170:
+            print(g, total[g])
 
     return totalWord
 
